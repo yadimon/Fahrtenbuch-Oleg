@@ -1,0 +1,396 @@
+14.06.10  09:50  10:15  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  102020    13   102033    Orlov
+14.06.10  18:25  18:49  home                Berckhauserstr 44                  geschäftlich  102033    12   102045    Orlov
+15.06.10  09:50  10:15  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  102045    13   102058    Orlov
+15.06.10  18:35  18:59  home                Berckhauserstr 44                  geschäftlich  102058    12   102070    Orlov
+16.06.10  12:30  12:55  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  102070    13   102083    Orlov
+16.06.10  19:55  20:19  home                Berckhauserstr 44                  geschäftlich  102083    12   102095    Orlov
+17.06.10  09:50  10:15  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  102095    13   102108    Orlov
+17.06.10  19:15  19:39  home                Berckhauserstr 44                  geschäftlich  102108    12   102120    Orlov
+18.06.10  12:17  12:27  TankStelle          Erlangener Straße 4                geschäftlich  102120    2    102122    Orlov
+18.06.10  12:32  13:00  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  102122    11   102133    Orlov
+18.06.10  19:00  19:24  home                Berckhauserstr 44                  geschäftlich  102133    12   102145    Orlov
+21.06.10  09:50  10:15  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  102145    13   102158    Orlov
+21.06.10  18:55  19:19  home                Berckhauserstr 44                  geschäftlich  102158    12   102170    Orlov
+22.06.10  09:40  11:00  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  102170    116  102286    Orlov
+22.06.10  19:25  20:46  home                Berckhauserstr 44                  geschäftlich  102286    114  102400    Orlov
+23.06.10  09:50  10:15  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  102400    13   102413    Orlov
+23.06.10  18:45  19:09  home                Berckhauserstr 44                  geschäftlich  102413    12   102425    Orlov
+24.06.10  09:25  09:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  102425    13   102438    Orlov
+24.06.10  17:50  18:14  home                Berckhauserstr 44                  geschäftlich  102438    12   102450    Orlov
+27.06.10  10:17  10:22  TankStelle          Grolandstr 65                      geschäftlich  102450    1    102451    Orlov
+27.06.10  10:27  10:32  home                Berckhauserstr 44                  geschäftlich  102451    1    102452    Orlov
+28.06.10  07:55  09:15  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  102452    115  102567    Orlov
+28.06.10  11:15  12:36  home                Berckhauserstr 44                  geschäftlich  102567    111  102678    Orlov
+29.06.10  09:00  09:25  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  102678    13   102691    Orlov
+29.06.10  18:25  18:49  home                Berckhauserstr 44                  geschäftlich  102691    12   102703    Orlov
+01.07.10  07:55  08:20  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  102703    13   102716    Orlov
+01.07.10  15:30  15:54  home                Berckhauserstr 44                  geschäftlich  102716    12   102728    Orlov
+02.07.10  07:55  08:20  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  102728    13   102741    Orlov
+02.07.10  16:20  16:50  Siemens AG          Colmbergerstr 2                    geschäftlich  102741    23   102764    Orlov
+02.07.10  21:20  21:52  TankStelle          Gibitzehnhofstr 172                geschäftlich  102764    5    102769    Orlov
+02.07.10  21:57  22:15  home                Berckhauserstr 44                  geschäftlich  102769    9    102778    Orlov
+05.07.10  07:25  08:45  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  102778    110  102888    Orlov
+05.07.10  18:45  20:06  home                Berckhauserstr 44                  geschäftlich  102888    112  103000    Orlov
+06.07.10  08:05  08:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  103000    13   103013    Orlov
+06.07.10  18:00  18:39  TankStelle          Grolandstr 65                      geschäftlich  103013    12   103025    Orlov
+06.07.10  18:44  18:49  home                Berckhauserstr 44                  geschäftlich  103025    1    103026    Orlov
+07.07.10  08:25  09:45  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  103026    113  103139    Orlov
+07.07.10  17:45  19:06  home                Berckhauserstr 44                  geschäftlich  103139    117  103256    Orlov
+08.07.10  07:10  08:30  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  103256    113  103369    Orlov
+08.07.10  18:30  19:51  home                Berckhauserstr 44                  geschäftlich  103369    118  103487    Orlov
+09.07.10  08:22  08:36  TankStelle          Essenweinstraße 37                 geschäftlich  103487    4    103491    Orlov
+09.07.10  08:41  08:50  Finansamt Süd       Sandstraße 20                      geschäftlich  103491    1    103492    Orlov
+09.07.10  09:20  09:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  103492    19   103511    Orlov
+09.07.10  20:00  20:24  home                Berckhauserstr 44                  geschäftlich  103511    12   103523    Orlov
+12.07.10  07:30  07:55  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  103523    13   103536    Orlov
+12.07.10  16:25  16:49  home                Berckhauserstr 44                  geschäftlich  103536    12   103548    Orlov
+13.07.10  07:10  08:30  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  103548    109  103657    Orlov
+13.07.10  18:45  20:06  home                Berckhauserstr 44                  geschäftlich  103657    111  103768    Orlov
+14.07.10  10:05  10:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  103768    13   103781    Orlov
+14.07.10  18:30  19:00  Siemens AG          Colmbergerstr 2                    geschäftlich  103781    24   103805    Orlov
+14.07.10  23:10  23:32  TankStelle          Gibitzehnhofstr 172                geschäftlich  103805    5    103810    Orlov
+14.07.10  23:37  23:55  home                Berckhauserstr 44                  geschäftlich  103810    9    103819    Orlov
+15.07.10  10:15  10:40  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  103819    13   103832    Orlov
+15.07.10  19:30  19:54  home                Berckhauserstr 44                  geschäftlich  103832    12   103844    Orlov
+16.07.10  08:40  09:05  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  103844    13   103857    Orlov
+16.07.10  16:35  16:59  home                Berckhauserstr 44                  geschäftlich  103857    12   103869    Orlov
+17.07.10  09:45  10:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  103869    13   103882    Orlov
+17.07.10  16:40  17:04  home                Berckhauserstr 44                  geschäftlich  103882    12   103894    Orlov
+19.07.10  07:10  08:30  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  103894    111  104005    Orlov
+19.07.10  18:30  19:51  home                Berckhauserstr 44                  geschäftlich  104005    112  104117    Orlov
+20.07.10  10:04  10:09  TankStelle          Grolandstr 65                      geschäftlich  104117    1    104118    Orlov
+20.07.10  10:14  10:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  104118    12   104130    Orlov
+20.07.10  16:00  16:24  TankStelle          Virnsberger Str 2-4                geschäftlich  104130    22   104152    Orlov
+20.07.10  16:50  17:09  home                Berckhauserstr 44                  geschäftlich  104152    9    104161    Orlov
+21.07.10  09:30  09:55  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  104161    13   104174    Orlov
+21.07.10  18:25  18:49  home                Berckhauserstr 44                  geschäftlich  104174    12   104186    Orlov
+22.07.10  09:40  11:00  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  104186    113  104299    Orlov
+22.07.10  18:00  19:21  home                Berckhauserstr 44                  geschäftlich  104299    113  104412    Orlov
+23.07.10  06:21  06:58  TankStelle          Am Falbenholzweg 15A Schwabach     geschäftlich  104412    26   104438    Orlov
+23.07.10  07:03  07:10  Alpha Technologies  Hansastraße 8 Schwabach            geschäftlich  104438    2    104440    Orlov
+23.07.10  07:30  08:25  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  104440    48   104488    Orlov
+23.07.10  18:25  18:49  home                Berckhauserstr 44                  geschäftlich  104488    12   104500    Orlov
+24.07.10  10:35  11:00  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  104500    13   104513    Orlov
+24.07.10  17:00  17:24  home                Berckhauserstr 44                  geschäftlich  104513    12   104525    Orlov
+26.07.10  07:20  08:40  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  104525    115  104640    Orlov
+26.07.10  18:20  19:41  home                Berckhauserstr 44                  geschäftlich  104640    116  104756    Orlov
+27.07.10  10:05  10:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  104756    13   104769    Orlov
+27.07.10  16:30  16:54  home                Berckhauserstr 44                  geschäftlich  104769    12   104781    Orlov
+28.07.10  08:45  09:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  104781    13   104794    Orlov
+28.07.10  17:45  18:16  TankStelle          Gebersdorferstr 22                 geschäftlich  104794    25   104819    Orlov
+28.07.10  18:21  18:25  Siemens AG          Colmbergerstr 2                    geschäftlich  104819    2    104821    Orlov
+28.07.10  21:40  22:04  home                Berckhauserstr 44                  geschäftlich  104821    9    104830    Orlov
+29.07.10  08:55  09:20  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  104830    13   104843    Orlov
+29.07.10  19:20  19:44  home                Berckhauserstr 44                  geschäftlich  104843    12   104855    Orlov
+30.07.10  09:20  09:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  104855    13   104868    Orlov
+30.07.10  16:55  17:19  home                Berckhauserstr 44                  geschäftlich  104868    12   104880    Orlov
+31.07.10  13:04  13:09  TankStelle          Grolandstr 65                      geschäftlich  104880    1    104881    Orlov
+31.07.10  13:14  14:45  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  104881    110  104991    Orlov
+31.07.10  18:15  19:36  home                Berckhauserstr 44                  geschäftlich  104991    116  105107    Orlov
+02.08.10  08:20  09:40  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  105107    115  105222    Orlov
+02.08.10  19:40  21:01  home                Berckhauserstr 44                  geschäftlich  105222    115  105337    Orlov
+03.08.10  08:25  09:45  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  105337    117  105454    Orlov
+03.08.10  19:00  20:21  home                Berckhauserstr 44                  geschäftlich  105454    114  105568    Orlov
+04.08.10  10:10  10:15  TankStelle          Grolandstr 65                      geschäftlich  105568    1    105569    Orlov
+04.08.10  10:20  10:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  105569    12   105581    Orlov
+04.08.10  11:30  12:50  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  105581    118  105699    Orlov
+04.08.10  18:20  19:41  home                Berckhauserstr 44                  geschäftlich  105699    117  105816    Orlov
+05.08.10  06:40  08:00  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  105816    109  105925    Orlov
+05.08.10  13:30  14:50  TankStelle          Gibitzehnhofstr 172                geschäftlich  105925    110  106035    Orlov
+05.08.10  14:55  15:10  Siemens AG          Colmbergerstr 2                    geschäftlich  106035    4    106039    Orlov
+05.08.10  21:10  21:34  home                Berckhauserstr 44                  geschäftlich  106039    9    106048    Orlov
+06.08.10  11:55  12:20  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  106048    13   106061    Orlov
+06.08.10  20:20  20:44  home                Berckhauserstr 44                  geschäftlich  106061    12   106073    Orlov
+09.08.10  08:25  09:45  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  106073    109  106182    Orlov
+09.08.10  17:45  19:06  home                Berckhauserstr 44                  geschäftlich  106182    109  106291    Orlov
+10.08.10  11:10  11:35  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  106291    13   106304    Orlov
+10.08.10  19:35  19:59  home                Berckhauserstr 44                  geschäftlich  106304    12   106316    Orlov
+11.08.10  12:20  12:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  106316    13   106329    Orlov
+11.08.10  20:15  20:39  home                Berckhauserstr 44                  geschäftlich  106329    12   106341    Orlov
+12.08.10  09:30  09:55  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  106341    13   106354    Orlov
+12.08.10  17:15  17:39  home                Berckhauserstr 44                  geschäftlich  106354    12   106366    Orlov
+13.08.10  08:50  09:15  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  106366    13   106379    Orlov
+13.08.10  16:05  16:29  home                Berckhauserstr 44                  geschäftlich  106379    12   106391    Orlov
+15.08.10  16:25  17:00  D. Kirschner        Bayreuther Str 6 Igensdorf         geschäftlich  106391    26   106417    Orlov
+15.08.10  19:20  19:24  TankStelle          Bayreuther Str 37 Igensdorf        geschäftlich  106417    1    106418    Orlov
+15.08.10  19:29  20:03  home                Berckhauserstr 44                  geschäftlich  106418    25   106443    Orlov
+16.08.10  10:20  11:40  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  106443    108  106551    Orlov
+16.08.10  19:40  21:01  home                Berckhauserstr 44                  geschäftlich  106551    110  106661    Orlov
+17.08.10  08:20  08:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  106661    13   106674    Orlov
+17.08.10  18:05  18:29  home                Berckhauserstr 44                  geschäftlich  106674    12   106686    Orlov
+18.08.10  10:25  10:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  106686    13   106699    Orlov
+18.08.10  17:00  17:24  home                Berckhauserstr 44                  geschäftlich  106699    12   106711    Orlov
+19.08.10  11:50  12:15  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  106711    13   106724    Orlov
+19.08.10  20:15  20:39  home                Berckhauserstr 44                  geschäftlich  106724    12   106736    Orlov
+20.08.10  10:05  10:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  106736    13   106749    Orlov
+20.08.10  18:50  19:14  home                Berckhauserstr 44                  geschäftlich  106749    12   106761    Orlov
+21.08.10  09:55  10:20  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  106761    13   106774    Orlov
+21.08.10  16:20  16:44  home                Berckhauserstr 44                  geschäftlich  106774    12   106786    Orlov
+22.08.10  07:49  9:45  D. Kirschner        Meindlstraße 4 München             geschäftlich  106786    180  106966    Orlov
+22.08.10  13:15  15:24  TankStelle          Grolandstr 65                      geschäftlich  106966    178  107144    Orlov
+22.08.10  15:29  15:50  Siemens AG          Colmbergerstr 2                    geschäftlich  107144    9    107153    Orlov
+22.08.10  21:20  21:24  TankStelle          Gebersdorferstr 22                 geschäftlich  107153    2    107155    Orlov
+22.08.10  21:29  21:54  home                Berckhauserstr 44                  geschäftlich  107155    10   107165    Orlov
+23.08.10  04:55  06:15  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  107165    111  107276    Orlov
+23.08.10  13:30  14:49  TankStelle          Schanzaeckerstr 7                  geschäftlich  107276    110  107386    Orlov
+23.08.10  14:54  15:10  Siemens AG          Colmbergerstr 2                    geschäftlich  107386    6    107392    Orlov
+23.08.10  20:10  20:45  TankStelle          Grolandstr 65                      geschäftlich  107392    9    107401    Orlov
+23.08.10  20:50  20:55  home                Berckhauserstr 44                  geschäftlich  107401    1    107402    Orlov
+24.08.10  08:35  09:00  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  107402    13   107415    Orlov
+24.08.10  19:20  19:44  home                Berckhauserstr 44                  geschäftlich  107415    12   107427    Orlov
+25.08.10  09:35  10:00  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  107427    13   107440    Orlov
+25.08.10  19:40  20:04  home                Berckhauserstr 44                  geschäftlich  107440    12   107452    Orlov
+26.08.10  08:15  08:40  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  107452    13   107465    Orlov
+26.08.10  18:45  19:09  home                Berckhauserstr 44                  geschäftlich  107465    12   107477    Orlov
+27.08.10  07:50  08:15  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  107477    13   107490    Orlov
+27.08.10  19:15  19:39  home                Berckhauserstr 44                  geschäftlich  107490    12   107502    Orlov
+28.08.10  08:20  08:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  107502    13   107515    Orlov
+28.08.10  13:15  13:39  home                Berckhauserstr 44                  geschäftlich  107515    12   107527    Orlov
+30.08.10  08:15  09:35  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  107527    115  107642    Orlov
+30.08.10  18:30  19:51  home                Berckhauserstr 44                  geschäftlich  107642    112  107754    Orlov
+31.08.10  07:50  08:15  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  107754    13   107767    Orlov
+31.08.10  15:15  15:51  TankStelle          Grolandstr 65                      geschäftlich  107767    12   107779    Orlov
+31.08.10  15:56  17:15  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  107779    115  107894    Orlov
+31.08.10  19:55  21:10  G. Carapoulious     Fichterstr 25                      geschäftlich  107894    113  108007    Orlov
+31.08.10  22:10  22:21  TankStelle          Sulzbacher Str 24-26               geschäftlich  108007    2    108009    Orlov
+31.08.10  22:26  22:36  home                Berckhauserstr 44                  geschäftlich  108009    2    108011    Orlov
+01.09.10  07:05  08:25  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  108011    117  108128    Orlov
+01.09.10  18:45  20:06  home                Berckhauserstr 44                  geschäftlich  108128    115  108243    Orlov
+02.09.10  06:40  08:00  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  108243    114  108357    Orlov
+02.09.10  18:30  19:51  home                Berckhauserstr 44                  geschäftlich  108357    109  108466    Orlov
+03.09.10  08:29  08:34  TankStelle          Grolandstr 65                      geschäftlich  108466    1    108467    Orlov
+03.09.10  08:39  09:20  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  108467    12   108479    Orlov
+03.09.10  18:40  19:10  Siemens AG          Colmbergerstr 2                    geschäftlich  108479    23   108502    Orlov
+03.09.10  22:20  22:44  home                Berckhauserstr 44                  geschäftlich  108502    9    108511    Orlov
+04.09.10  09:00  09:25  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  108511    13   108524    Orlov
+04.09.10  15:25  15:55  Siemens AG          Colmbergerstr 2                    geschäftlich  108524    23   108547    Orlov
+04.09.10  21:05  21:29  home                Berckhauserstr 44                  geschäftlich  108547    9    108556    Orlov
+05.09.10  13:01  13:31  TankStelle          Forther Hauptstr 2  Eckental       geschäftlich  108556    20   108576    Orlov
+05.09.10  13:36  14:10  D. Kirschner        Bayreuther Straße 14 Gräfenberg    geschäftlich  108576    9    108585    Orlov
+05.09.10  17:00  17:38  home                Berckhauserstr 44                  geschäftlich  108585    28   108613    Orlov
+06.09.10  07:25  08:45  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  108613    116  108729    Orlov
+06.09.10  16:30  18:05  Siemens AG          Colmbergerstr 2                    geschäftlich  108729    111  108840    Orlov
+06.09.10  21:15  21:39  home                Berckhauserstr 44                  geschäftlich  108840    9    108849    Orlov
+07.09.10  12:08  12:26  TankStelle          Gibitzehnhofstr 172                geschäftlich  108849    6    108855    Orlov
+07.09.10  12:31  12:45  Siemens AG          Colmbergerstr 2                    geschäftlich  108855    4    108859    Orlov
+07.09.10  13:15  14:45  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  108859    113  108972    Orlov
+07.09.10  21:45  23:06  home                Berckhauserstr 44                  geschäftlich  108972    117  109089    Orlov
+08.09.10  08:20  09:40  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  109089    108  109197    Orlov
+08.09.10  17:00  18:21  home                Berckhauserstr 44                  geschäftlich  109197    116  109313    Orlov
+09.09.10  07:35  08:55  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  109313    114  109427    Orlov
+09.09.10  18:40  20:01  home                Berckhauserstr 44                  geschäftlich  109427    112  109539    Orlov
+10.09.10  08:55  09:20  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  109539    13   109552    Orlov
+10.09.10  19:20  19:44  home                Berckhauserstr 44                  geschäftlich  109552    12   109564    Orlov
+11.09.10  09:15  09:40  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  109564    13   109577    Orlov
+11.09.10  12:30  13:00  Siemens AG          Colmbergerstr 2                    geschäftlich  109577    24   109601    Orlov
+11.09.10  17:00  17:17  TankStelle          Gibitzehnhofstr 172                geschäftlich  109601    5    109606    Orlov
+11.09.10  17:22  17:40  home                Berckhauserstr 44                  geschäftlich  109606    9    109615    Orlov
+13.09.10  07:10  08:30  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  109615    116  109731    Orlov
+13.09.10  18:30  19:51  home                Berckhauserstr 44                  geschäftlich  109731    110  109841    Orlov
+14.09.10  08:35  08:40  TankStelle          Grolandstr 65                      geschäftlich  109841    1    109842    Orlov
+14.09.10  08:45  10:10  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  109842    112  109954    Orlov
+14.09.10  18:10  19:31  home                Berckhauserstr 44                  geschäftlich  109954    115  110069    Orlov
+15.09.10  06:40  08:00  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  110069    108  110177    Orlov
+15.09.10  17:00  18:43  TankStelle          Nürnbergerstr 126                  geschäftlich  110177    114  110291    Orlov
+15.09.10  18:48  19:10  Siemens AG          Colmbergerstr 2                    geschäftlich  110291    8    110299    Orlov
+15.09.10  22:10  22:34  home                Berckhauserstr 44                  geschäftlich  110299    9    110308    Orlov
+16.09.10  08:25  08:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  110308    13   110321    Orlov
+16.09.10  17:50  18:14  home                Berckhauserstr 44                  geschäftlich  110321    12   110333    Orlov
+17.09.10  08:10  08:35  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  110333    13   110346    Orlov
+17.09.10  18:05  18:29  home                Berckhauserstr 44                  geschäftlich  110346    12   110358    Orlov
+18.09.10  08:45  09:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  110358    13   110371    Orlov
+18.09.10  13:10  13:34  home                Berckhauserstr 44                  geschäftlich  110371    12   110383    Orlov
+20.09.10  06:55  08:15  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  110383    108  110491    Orlov
+20.09.10  18:15  19:36  home                Berckhauserstr 44                  geschäftlich  110491    115  110606    Orlov
+21.09.10  06:16  06:33  TankStelle          Nürnbergerstr 131                  geschäftlich  110606    7    110613    Orlov
+21.09.10  06:38  07:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  110613    15   110628    Orlov
+21.09.10  13:30  13:51  TankStelle          Grolandstr 65                      geschäftlich  110628    12   110640    Orlov
+21.09.10  13:56  15:30  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  110640    109  110749    Orlov
+21.09.10  21:30  22:51  home                Berckhauserstr 44                  geschäftlich  110749    116  110865    Orlov
+22.09.10  08:45  09:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  110865    13   110878    Orlov
+22.09.10  18:15  18:39  home                Berckhauserstr 44                  geschäftlich  110878    12   110890    Orlov
+23.09.10  08:20  08:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  110890    13   110903    Orlov
+23.09.10  18:00  18:24  home                Berckhauserstr 44                  geschäftlich  110903    12   110915    Orlov
+24.09.10  08:20  08:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  110915    13   110928    Orlov
+24.09.10  17:30  17:54  home                Berckhauserstr 44                  geschäftlich  110928    12   110940    Orlov
+25.09.10  08:15  09:35  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  110940    116  111056    Orlov
+25.09.10  18:35  19:56  home                Berckhauserstr 44                  geschäftlich  111056    116  111172    Orlov
+26.09.10  16:25  16:50  Siemens AG          Colmbergerstr 2                    geschäftlich  111172    9    111181    Orlov
+26.09.10  21:05  21:11  TankStelle          Gebersdorferstr 22                 geschäftlich  111181    2    111183    Orlov
+26.09.10  21:16  21:41  home                Berckhauserstr 44                  geschäftlich  111183    10   111193    Orlov
+27.09.10  07:10  08:30  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  111193    112  111305    Orlov
+27.09.10  18:30  19:51  home                Berckhauserstr 44                  geschäftlich  111305    109  111414    Orlov
+28.09.10  08:40  09:05  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  111414    13   111427    Orlov
+28.09.10  19:05  19:35  Siemens AG          Colmbergerstr 2                    geschäftlich  111427    23   111450    Orlov
+28.09.10  21:55  22:15  TankStelle          Gibitzehnhofstr 172                geschäftlich  111450    5    111455    Orlov
+28.09.10  22:20  22:38  home                Berckhauserstr 44                  geschäftlich  111455    9    111464    Orlov
+29.09.10  07:50  08:15  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  111464    13   111477    Orlov
+29.09.10  18:30  18:54  home                Berckhauserstr 44                  geschäftlich  111477    12   111489    Orlov
+30.09.10  07:15  08:35  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  111489    117  111606    Orlov
+30.09.10  18:05  19:26  home                Berckhauserstr 44                  geschäftlich  111606    109  111715    Orlov
+01.10.10  09:20  09:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  111715    13   111728    Orlov
+01.10.10  19:15  19:46  TankStelle          Grolandstr 65                      geschäftlich  111728    12   111740    Orlov
+01.10.10  19:51  19:56  home                Berckhauserstr 44                  geschäftlich  111740    1    111741    Orlov
+02.10.10  09:30  09:55  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  111741    13   111754    Orlov
+02.10.10  17:55  18:19  home                Berckhauserstr 44                  geschäftlich  111754    12   111766    Orlov
+04.10.10  07:00  08:20  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  111766    116  111882    Orlov
+04.10.10  18:20  19:41  home                Berckhauserstr 44                  geschäftlich  111882    113  111995    Orlov
+05.10.10  06:50  08:10  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  111995    112  112107    Orlov
+05.10.10  18:40  20:01  home                Berckhauserstr 44                  geschäftlich  112107    114  112221    Orlov
+06.10.10  14:33  14:38  TankStelle          Grolandstr 65                      geschäftlich  112221    1    112222    Orlov
+06.10.10  14:43  15:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  112222    12   112234    Orlov
+06.10.10  20:00  20:24  home                Berckhauserstr 44                  geschäftlich  112234    12   112246    Orlov
+07.10.10  07:30  08:50  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  112246    109  112355    Orlov
+07.10.10  18:05  19:26  home                Berckhauserstr 44                  geschäftlich  112355    114  112469    Orlov
+08.10.10  08:40  09:05  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  112469    13   112482    Orlov
+08.10.10  18:50  19:11  TankStelle          Grolandstr 65                      geschäftlich  112482    12   112494    Orlov
+08.10.10  19:16  19:21  home                Berckhauserstr 44                  geschäftlich  112494    1    112495    Orlov
+09.10.10  08:35  09:00  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  112495    13   112508    Orlov
+09.10.10  13:00  13:24  home                Berckhauserstr 44                  geschäftlich  112508    12   112520    Orlov
+11.10.10  07:30  08:50  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  112520    115  112635    Orlov
+11.10.10  18:20  19:41  home                Berckhauserstr 44                  geschäftlich  112635    113  112748    Orlov
+12.10.10  08:10  08:35  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  112748    13   112761    Orlov
+12.10.10  19:05  19:29  home                Berckhauserstr 44                  geschäftlich  112761    12   112773    Orlov
+13.10.10  08:20  08:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  112773    13   112786    Orlov
+13.10.10  19:00  19:24  home                Berckhauserstr 44                  geschäftlich  112786    12   112798    Orlov
+14.10.10  08:20  08:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  112798    13   112811    Orlov
+14.10.10  19:00  19:24  home                Berckhauserstr 44                  geschäftlich  112811    12   112823    Orlov
+15.10.10  10:20  10:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  112823    13   112836    Orlov
+15.10.10  17:30  17:54  home                Berckhauserstr 44                  geschäftlich  112836    12   112848    Orlov
+16.10.10  09:45  10:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  112848    13   112861    Orlov
+16.10.10  14:10  14:34  home                Berckhauserstr 44                  geschäftlich  112861    12   112873    Orlov
+19.10.10  10:00  10:25  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  112873    13   112886    Orlov
+19.10.10  19:10  19:34  home                Berckhauserstr 44                  geschäftlich  112886    12   112898    Orlov
+20.10.10  09:00  09:25  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  112898    13   112911    Orlov
+20.10.10  18:15  18:39  home                Berckhauserstr 44                  geschäftlich  112911    12   112923    Orlov
+21.10.10  09:15  09:40  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  112923    13   112936    Orlov
+21.10.10  16:25  16:49  home                Berckhauserstr 44                  geschäftlich  112936    12   112948    Orlov
+22.10.10  09:15  09:40  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  112948    13   112961    Orlov
+22.10.10  20:10  20:34  home                Berckhauserstr 44                  geschäftlich  112961    12   112973    Orlov
+23.10.10  10:18  10:23  TankStelle          Grolandstr 65                      geschäftlich  112973    1    112974    Orlov
+23.10.10  10:28  10:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  112974    12   112986    Orlov
+23.10.10  16:00  16:24  home                Berckhauserstr 44                  geschäftlich  112986    12   112998    Orlov
+25.10.10  07:05  08:25  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  112998    114  113112    Orlov
+25.10.10  18:25  19:46  home                Berckhauserstr 44                  geschäftlich  113112    118  113230    Orlov
+26.10.10  09:20  09:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  113230    13   113243    Orlov
+26.10.10  19:00  19:24  home                Berckhauserstr 44                  geschäftlich  113243    12   113255    Orlov
+27.10.10  08:35  09:00  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  113255    13   113268    Orlov
+27.10.10  19:00  19:24  home                Berckhauserstr 44                  geschäftlich  113268    12   113280    Orlov
+28.10.10  09:20  09:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  113280    13   113293    Orlov
+28.10.10  18:50  19:14  home                Berckhauserstr 44                  geschäftlich  113293    12   113305    Orlov
+29.10.10  09:25  09:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  113305    13   113318    Orlov
+29.10.10  15:20  15:48  TankStelle          Grolandstr 65                      geschäftlich  113318    12   113330    Orlov
+29.10.10  15:53  15:58  home                Berckhauserstr 44                  geschäftlich  113330    1    113331    Orlov
+30.10.10  10:10  10:35  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  113331    13   113344    Orlov
+30.10.10  14:35  14:59  home                Berckhauserstr 44                  geschäftlich  113344    12   113356    Orlov
+01.11.10  06:50  08:10  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  113356    109  113465    Orlov
+01.11.10  18:10  19:31  home                Berckhauserstr 44                  geschäftlich  113465    116  113581    Orlov
+02.11.10  10:45  11:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  113581    13   113594    Orlov
+02.11.10  19:40  20:04  home                Berckhauserstr 44                  geschäftlich  113594    12   113606    Orlov
+03.11.10  10:20  10:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  113606    13   113619    Orlov
+03.11.10  19:15  19:39  home                Berckhauserstr 44                  geschäftlich  113619    12   113631    Orlov
+04.11.10  09:40  10:05  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  113631    13   113644    Orlov
+04.11.10  18:35  18:59  home                Berckhauserstr 44                  geschäftlich  113644    12   113656    Orlov
+06.11.10  09:35  10:00  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  113656    13   113669    Orlov
+06.11.10  14:30  14:54  home                Berckhauserstr 44                  geschäftlich  113669    12   113681    Orlov
+08.11.10  10:50  11:15  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  113681    13   113694    Orlov
+08.11.10  19:30  20:04  TankStelle          Grolandstr 65                      geschäftlich  113694    12   113706    Orlov
+08.11.10  20:09  20:14  home                Berckhauserstr 44                  geschäftlich  113706    1    113707    Orlov
+09.11.10  08:20  08:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  113707    13   113720    Orlov
+09.11.10  19:15  19:39  home                Berckhauserstr 44                  geschäftlich  113720    12   113732    Orlov
+10.11.10  09:50  10:15  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  113732    13   113745    Orlov
+10.11.10  16:30  16:54  home                Berckhauserstr 44                  geschäftlich  113745    12   113757    Orlov
+11.11.10  08:50  09:15  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  113757    13   113770    Orlov
+11.11.10  19:00  19:24  home                Berckhauserstr 44                  geschäftlich  113770    12   113782    Orlov
+12.11.10  09:20  09:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  113782    13   113795    Orlov
+12.11.10  20:15  20:39  home                Berckhauserstr 44                  geschäftlich  113795    12   113807    Orlov
+13.11.10  07:25  08:45  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  113807    117  113924    Orlov
+13.11.10  16:45  18:06  home                Berckhauserstr 44                  geschäftlich  113924    117  114041    Orlov
+15.11.10  10:00  10:25  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114041    13   114054    Orlov
+15.11.10  18:40  19:04  home                Berckhauserstr 44                  geschäftlich  114054    12   114066    Orlov
+16.11.10  09:35  10:00  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114066    13   114079    Orlov
+16.11.10  16:35  16:59  home                Berckhauserstr 44                  geschäftlich  114079    12   114091    Orlov
+17.11.10  09:20  09:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114091    13   114104    Orlov
+17.11.10  19:45  20:09  home                Berckhauserstr 44                  geschäftlich  114104    12   114116    Orlov
+18.11.10  09:25  09:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114116    13   114129    Orlov
+18.11.10  19:40  20:04  home                Berckhauserstr 44                  geschäftlich  114129    12   114141    Orlov
+19.11.10  09:15  09:40  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114141    13   114154    Orlov
+19.11.10  16:40  17:04  home                Berckhauserstr 44                  geschäftlich  114154    12   114166    Orlov
+20.11.10  08:45  09:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114166    13   114179    Orlov
+20.11.10  17:10  17:34  home                Berckhauserstr 44                  geschäftlich  114179    12   114191    Orlov
+22.11.10  13:03  13:28  TankStelle          Gebersdorferstr 22                 geschäftlich  114191    10   114201    Orlov
+22.11.10  13:33  13:50  Siemens AG          Colmbergerstr 2                    geschäftlich  114201    2    114203    Orlov
+22.11.10  14:20  14:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114203    21   114224    Orlov
+22.11.10  21:20  21:44  home                Berckhauserstr 44                  geschäftlich  114224    12   114236    Orlov
+23.11.10  09:10  09:35  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114236    13   114249    Orlov
+23.11.10  19:25  19:49  home                Berckhauserstr 44                  geschäftlich  114249    12   114261    Orlov
+24.11.10  09:05  09:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114261    13   114274    Orlov
+24.11.10  16:35  16:59  home                Berckhauserstr 44                  geschäftlich  114274    12   114286    Orlov
+25.11.10  08:35  09:00  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114286    13   114299    Orlov
+25.11.10  16:35  16:59  home                Berckhauserstr 44                  geschäftlich  114299    12   114311    Orlov
+26.11.10  09:25  09:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114311    13   114324    Orlov
+26.11.10  16:40  17:04  home                Berckhauserstr 44                  geschäftlich  114324    12   114336    Orlov
+27.11.10  09:05  09:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114336    13   114349    Orlov
+27.11.10  17:30  17:54  home                Berckhauserstr 44                  geschäftlich  114349    12   114361    Orlov
+29.11.10  10:25  10:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114361    13   114374    Orlov
+29.11.10  19:50  20:14  home                Berckhauserstr 44                  geschäftlich  114374    12   114386    Orlov
+30.11.10  09:55  10:20  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114386    13   114399    Orlov
+30.11.10  19:20  19:44  home                Berckhauserstr 44                  geschäftlich  114399    12   114411    Orlov
+01.12.10  07:50  08:15  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114411    13   114424    Orlov
+01.12.10  18:15  18:39  home                Berckhauserstr 44                  geschäftlich  114424    12   114436    Orlov
+02.12.10  11:45  12:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114436    13   114449    Orlov
+02.12.10  19:10  19:34  home                Berckhauserstr 44                  geschäftlich  114449    12   114461    Orlov
+03.12.10  08:45  09:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114461    13   114474    Orlov
+03.12.10  16:40  17:04  home                Berckhauserstr 44                  geschäftlich  114474    12   114486    Orlov
+05.12.10  16:05  16:30  D. Kirschner        Zollhausstr 14                     geschäftlich  114486    11   114497    Orlov
+05.12.10  18:30  18:35  TankStelle          Münchener str 400                  geschäftlich  114497    1    114498    Orlov
+05.12.10  18:40  19:06  home                Berckhauserstr 44                  geschäftlich  114498    16   114514    Orlov
+06.12.10  11:15  11:20  TankStelle          Grolandstr 65                      geschäftlich  114514    1    114515    Orlov
+06.12.10  11:25  11:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114515    12   114527    Orlov
+06.12.10  21:00  21:24  home                Berckhauserstr 44                  geschäftlich  114527    12   114539    Orlov
+07.12.10  09:25  09:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114539    13   114552    Orlov
+07.12.10  16:40  17:04  home                Berckhauserstr 44                  geschäftlich  114552    12   114564    Orlov
+08.12.10  09:45  10:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114564    13   114577    Orlov
+08.12.10  20:00  20:46  TankStelle          Grolandstr 65                      geschäftlich  114577    12   114589    Orlov
+08.12.10  20:51  20:56  home                Berckhauserstr 44                  geschäftlich  114589    1    114590    Orlov
+09.12.10  09:35  10:00  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114590    13   114603    Orlov
+09.12.10  20:00  20:24  home                Berckhauserstr 44                  geschäftlich  114603    12   114615    Orlov
+10.12.10  10:05  10:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114615    13   114628    Orlov
+10.12.10  20:00  20:24  home                Berckhauserstr 44                  geschäftlich  114628    12   114640    Orlov
+11.12.10  07:30  08:50  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  114640    115  114755    Orlov
+11.12.10  16:50  18:11  home                Berckhauserstr 44                  geschäftlich  114755    114  114869    Orlov
+12.12.10  16:45  17:10  Siemens AG          Colmbergerstr 2                    geschäftlich  114869    9    114878    Orlov
+12.12.10  21:30  21:34  TankStelle          Gebersdorferstr 22                 geschäftlich  114878    2    114880    Orlov
+12.12.10  21:39  22:04  home                Berckhauserstr 44                  geschäftlich  114880    10   114890    Orlov
+13.12.10  09:45  10:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114890    13   114903    Orlov
+13.12.10  20:00  20:24  home                Berckhauserstr 44                  geschäftlich  114903    12   114915    Orlov
+14.12.10  09:35  10:00  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114915    13   114928    Orlov
+14.12.10  20:00  20:24  home                Berckhauserstr 44                  geschäftlich  114928    12   114940    Orlov
+15.12.10  10:05  10:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114940    13   114953    Orlov
+15.12.10  20:00  20:24  home                Berckhauserstr 44                  geschäftlich  114953    12   114965    Orlov
+16.12.10  08:35  09:00  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114965    13   114978    Orlov
+16.12.10  16:20  16:44  home                Berckhauserstr 44                  geschäftlich  114978    12   114990    Orlov
+17.12.10  08:55  09:20  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  114990    13   115003    Orlov
+17.12.10  16:40  17:04  home                Berckhauserstr 44                  geschäftlich  115003    12   115015    Orlov
+20.12.10  09:35  10:00  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  115015    13   115028    Orlov
+20.12.10  20:00  20:24  home                Berckhauserstr 44                  geschäftlich  115028    12   115040    Orlov
+21.12.10  07:20  08:40  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  115040    115  115155    Orlov
+21.12.10  18:40  20:01  home                Berckhauserstr 44                  geschäftlich  115155    118  115273    Orlov
+22.12.10  11:10  11:35  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  115273    13   115286    Orlov
+22.12.10  20:20  20:44  home                Berckhauserstr 44                  geschäftlich  115286    12   115298    Orlov
+23.12.10  07:10  08:30  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  115298    117  115415    Orlov
+23.12.10  18:00  19:32  TankStelle          Grolandstr 65                      geschäftlich  115415    114  115529    Orlov
+23.12.10  19:37  19:42  home                Berckhauserstr 44                  geschäftlich  115529    1    115530    Orlov
+24.12.10  09:45  10:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  115530    13   115543    Orlov
+24.12.10  18:40  19:04  home                Berckhauserstr 44                  geschäftlich  115543    12   115555    Orlov
+25.12.10  06:55  08:15  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  115555    108  115663    Orlov
+25.12.10  18:15  19:36  home                Berckhauserstr 44                  geschäftlich  115663    111  115774    Orlov
+27.12.10  10:25  10:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  115774    13   115787    Orlov
+27.12.10  20:10  20:38  TankStelle          Grolandstr 65                      geschäftlich  115787    12   115799    Orlov
+27.12.10  20:43  20:48  home                Berckhauserstr 44                  geschäftlich  115799    1    115800    Orlov
+28.12.10  07:10  08:30  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  115800    108  115908    Orlov
+28.12.10  18:15  19:36  home                Berckhauserstr 44                  geschäftlich  115908    114  116022    Orlov
+29.12.10  06:50  08:10  CDN AG              Im Gewerbepark 27C Regensburg      geschäftlich  116022    109  116131    Orlov
+29.12.10  18:10  19:31  home                Berckhauserstr 44                  geschäftlich  116131    109  116240    Orlov
+30.12.10  10:55  11:20  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         geschäftlich  116240    13   116253    Orlov
+30.12.10  19:40  20:04  home                Berckhauserstr 44                  geschäftlich  116253    12   116265    Orlov

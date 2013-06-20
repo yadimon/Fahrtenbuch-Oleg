@@ -1,0 +1,17 @@
+checksum/9/Geschäftsgespräch/different addresses
+
+04. Jan 11   Dienstag	12.00   15.30	G. Carapoulious / Fichterstr 25	
+06. Jan 11	 Donnerstag	11.00	13.30	Ist GmbH / Eschenstrasse 66 [Taufkirchen]
+
+22. Feb 11	 Dienstag	16.00	18.20	Siemens AG VG/ Carl-Benz-Straße 22 [Frankfurt am Main]
+
+14. Mrz 11	 Dienstag	14.00	15.45	Mercedes Benz AG/ Mercedesstraße 102 [Stuttgart]
+
+17. Apr 11	 Sonntag	11.55	15.05	D. Kirschner / Platzl 6 [München]
+
+04. Jun 11	 Samstag  	11.30	14.00	Itdesign GmbH / Karlstraße 3 [Tübingen]
+
+07. Aug 11	 Donnerstag 13.00	15.15	Jterms / Jaupstraße 7 [Darmstadt]
+
+28. Okt 11	 Freitag	21.30	22.30	Flughaven Praha / Flughafen Prag (Letite Praha-Ruzyne), Aviatická, [Praha] / onewayto
+07. Nov 11	 Freitag	10.00	10.10	Flughaven Praha / Flughafen Prag (Letite Praha-Ruzyne), Aviatická, [Praha] / onewayback

@@ -1,0 +1,243 @@
+checksum/158/Siemens AG/Schreiberhauerstr 7 [Nürnberg]
+	
+18. Mrz 11	 Freitag	09.00	11.15
+29. Apr 11	 Freitag	10.30	11.20
+	
+02. Mai 11	 Montag		08.45	17.45
+03. Mai 11	 Dienstag	08.30	16.15
+04. Mai 11	 Mittwoch	08.45	17.45
+05. Mai 11	 Donnerstag	09.00	14.00
+06. Mai 11	 Freitag		
+07. Mai 11	 --Samstag--		
+08. Mai 11	 --Sonntag--		
+09. Mai 11	 Montag		12.30	20.00
+10. Mai 11	 Dienstag	09.50	18.50
+11. Mai 11	 Mittwoch	11.00	19.30
+12. Mai 11	 Donnerstag	
+13. Mai 11	 Freitag	09.40	18.40
+14. Mai 11	 --Samstag--		
+15. Mai 11	 --Sonntag--		
+16. Mai 11	 Montag		08.45	18.00
+17. Mai 11	 Dienstag	09.00	18.30
+18. Mai 11	 Mittwoch	08.45	18.00
+19. Mai 11	 Donnerstag	09.00	18.30
+20. Mai 11	 Freitag	08.30	18.00
+21. Mai 11	 --Samstag--		
+22. Mai 11	 --Sonntag--		
+23. Mai 11	 Montag		08.15	17.45
+24. Mai 11	 Dienstag	09.30	19.00
+25. Mai 11	 Mittwoch	09.00	18.30
+26. Mai 11	 Donnerstag	08.00	16.30
+27. Mai 11	 Freitag	09.00	18.30
+28. Mai 11	 --Samstag--		
+29. Mai 11	 --Sonntag--		
+30. Mai 11	 Montag		
+31. Mai 11	 Dienstag	09.00	17.00
+
+01. Jun 11	 Mittwoch	08.40	18.40
+02. Jun 11	 Donnerstag	-	-
+03. Jun 11	 Freitag	-	-
+04. Jun 11	 --Samstag--		
+05. Jun 11	 --Sonntag--		
+06. Jun 11	 Montag		09.00	18.30
+07. Jun 11	 Dienstag	09.10	19.10
+08. Jun 11	 Mittwoch	08.45	18.15
+09. Jun 11	 Donnerstag	09.00	18.30
+10. Jun 11	 Freitag	08.30	18.00
+11. Jun 11	 --Samstag--		
+12. Jun 11	 --Sonntag--		
+13. Jun 11	 Montag	-	-
+14. Jun 11	 Dienstag	09.10	18.40
+15. Jun 11	 Mittwoch	09.15	19.15
+16. Jun 11	 Donnerstag	-	-
+17. Jun 11	 Freitag	-	-
+18. Jun 11	 --Samstag--		
+19. Jun 11	 --Sonntag--		
+20. Jun 11	 Montag		08.45	18.45
+21. Jun 11	 Dienstag	09.10	18.40
+22. Jun 11	 Mittwoch	09.15	18.45
+23. Jun 11	 Donnerstag	-	-
+24. Jun 11	 Freitag	09.30	19.00
+25. Jun 11	 --Samstag--		
+26. Jun 11	 --Sonntag--		
+27. Jun 11	 Montag		09.00	18.15
+28. Jun 11	 Dienstag	09.15	18.00
+29. Jun 11	 Mittwoch	09.00	18.30
+30. Jun 11	 Donnerstag	09.05	17.35
+
+
+02. Jul 11	 --Samstag--		
+03. Jul 11	 --Sonntag--		
+04. Jul 11	 Montag		09.20	17.20
+05. Jul 11	 Dienstag	09.10	17.40
+06. Jul 11	 Mittwoch	09.40	17.40
+07. Jul 11	 Donnerstag	09.50	17.20
+08. Jul 11	 Freitag	09.00	20.00
+09. Jul 11	 --Samstag--		
+10. Jul 11	 --Sonntag--		
+11. Jul 11	 Montag		09.15	17.00
+12. Jul 11	 Dienstag	09.15	17.45
+13. Jul 11	 Mittwoch	09.15	17.15
+14. Jul 11	 Donnerstag	09.05	18.20
+15. Jul 11	 Freitag	09.20	17.50
+16. Jul 11	 --Samstag--		
+17. Jul 11	 --Sonntag--		
+18. Jul 11	 Montag		10.15	17.45
+19. Jul 11	 Dienstag	09.10	17.10
+20. Jul 11	 Mittwoch	09.10	17.10
+21. Jul 11	 Donnerstag	09.00	17.00
+22. Jul 11	 Freitag	09.20	17.50
+23. Jul 11	 --Samstag--		
+24. Jul 11	 --Sonntag--		
+25. Jul 11	 Montag		09.30	17.00
+26. Jul 11	 Dienstag	09.25	17.10
+27. Jul 11	 Mittwoch	09.35	17.20
+28. Jul 11	 Donnerstag	09.10	19.25
+29. Jul 11	 Freitag	09.20	18.05
+
+01. Aug 11	 Montag		09.20	17.20
+02. Aug 11	 Dienstag	09.20	15.50
+03. Aug 11	 Mittwoch	09.00	17.30
+04. Aug 11	 Donnerstag	08.50	19.20
+05. Aug 11	 Freitag	09.10	16.40
+06. Aug 11	 --Samstag--		
+07. Aug 11	 --Sonntag--		
+08. Aug 11	 Montag		08.50	17.50
+09. Aug 11	 Dienstag	09.20	17.50
+10. Aug 11	 Mittwoch	09.30	18.30
+11. Aug 11	 Donnerstag	09.15	18.00
+12. Aug 11	 Freitag	09.20	17.50
+13. Aug 11	 --Samstag--		
+14. Aug 11	 --Sonntag--		
+15. Aug 11	 Montag		10.10	10.30
+16. Aug 11	 Dienstag	09.30	18.00
+17. Aug 11	 Mittwoch	09.10	17.25
+18. Aug 11	 Donnerstag	09.30	16.30
+19. Aug 11	 Freitag	09.30	18.00
+20. Aug 11	 --Samstag--		
+21. Aug 11	 --Sonntag--		
+22. Aug 11	 Montag		09.30	18.00
+23. Aug 11	 Dienstag	09.30	18.00
+24. Aug 11	 Mittwoch	09.30	19.00
+25. Aug 11	 Donnerstag	09.20	19.20
+26. Aug 11	 Freitag	09.20	16.50
+27. Aug 11	 --Samstag--		
+28. Aug 11	 --Sonntag--		
+29. Aug 11	 Montag		09.30	18.00
+30. Aug 11	 Dienstag	09.30	18.00
+31. Aug 11	 Mittwoch	09.40	18.10
+
+01. Sep 11	 Donnerstag	09.00	18.00
+02. Sep 11	 Freitag	09.10	18.10
+03. Sep 11	 --Samstag--		
+04. Sep 11	 --Sonntag--		
+05. Sep 11	 Montag		09.30	19.30
+06. Sep 11	 Dienstag	09.20	19.20
+07. Sep 11	 Mittwoch	09.30	18.00
+08. Sep 11	 Donnerstag	15.40	21.40
+09. Sep 11	 Freitag	09.30	19.15
+10. Sep 11	 --Samstag--		
+11. Sep 11	 --Sonntag--		
+12. Sep 11	 Montag		09.30	17.00
+13. Sep 11	 Dienstag	09.40	19.10
+14. Sep 11	 Mittwoch	09.20	17.30
+15. Sep 11	 Donnerstag	09.50	17.20
+
+17. Sep 11	 --Samstag--		
+18. Sep 11	 --Sonntag--		
+19. Sep 11	 Montag		09.50	11.15
+20. Sep 11	 Dienstag	09.20	16.50
+21. Sep 11	 Mittwoch	8.30	16.30
+22. Sep 11	 Donnerstag	09.50	16.50
+23. Sep 11	 Freitag	09.30	18.00
+24. Sep 11	 --Samstag--		
+25. Sep 11	 --Sonntag--		
+26. Sep 11	 Montag		09.45	17.45
+27. Sep 11	 Dienstag	09.45	17.00
+28. Sep 11	 Mittwoch	09.40	18.10
+29. Sep 11	 Donnerstag	10.00	19.00
+30. Sep 11	 Freitag	10.00	18.30
+
+04. Okt 11	 Dienstag	10.00	17.00
+05. Okt 11	 Mittwoch	09.20	19.20
+06. Okt 11	 Donnerstag	09.15	17.15
+07. Okt 11	 Freitag	10.00	19.50
+08. Okt 11	 --Samstag--		
+09. Okt 11	 --Sonntag--		
+10. Okt 11	 Montag		09.40	17.40
+11. Okt 11	 Dienstag	11.00	18.00
+12. Okt 11	 Mittwoch	10.20	19.20
+13. Okt 11	 Donnerstag	10.00	17.00
+14. Okt 11	 Freitag	09.30	19.30
+15. Okt 11	 --Samstag--		
+16. Okt 11	 --Sonntag--		
+17. Okt 11	 Montag		10.40	19.40
+18. Okt 11	 Dienstag	11.00	19.00
+19. Okt 11	 Mittwoch	10.00	17.00
+20. Okt 11	 Donnerstag	10.00	17.40
+21. Okt 11	 Freitag	09.30	19.30
+22. Okt 11	 --Samstag--		
+23. Okt 11	 --Sonntag--		
+24. Okt 11	 Montag		10.00	10.20
+25. Okt 11	 Dienstag	09.20	17.50
+26. Okt 11	 Mittwoch	08.30	17.30
+
+28. Okt 11	 Freitag	09.15	17.15
+
+07. Nov 11	 Montag		12.50	19.30
+08. Nov 11	 Dienstag	08.20	18.50
+09. Nov 11	 Mittwoch	08.30	18.30
+10. Nov 11	 Donnerstag	09.40	18.40
+11. Nov 11	 Freitag	09.20	18.50
+12. Nov 11	 --Samstag--		
+13. Nov 11	 --Sonntag--
+14. Nov 11	 Montag		10.15	11.00		
+15. Nov 11	 Dienstag	08.15	19.15
+16. Nov 11	 Mittwoch	08.30	19.00
+17. Nov 11	 Donnerstag	09.40	20.40
+18. Nov 11	 Freitag	09.10	19.10
+19. Nov 11	 --Samstag--		
+20. Nov 11	 --Sonntag--		
+21. Nov 11	 Montag		09.30	22.00
+22. Nov 11	 Dienstag	09.00	17.30
+23. Nov 11	 Mittwoch	09.20	17.50
+24. Nov 11	 Donnerstag	09.50	18.20
+25. Nov 11	 Freitag	09.40	17.40
+26. Nov 11	 --Samstag--		
+27. Nov 11	 --Sonntag--		
+28. Nov 11	 Montag		10.20	10.30
+29. Nov 11	 Dienstag	09.20	18.20
+30. Nov 11	 Mittwoch	15.30	23.00
+
+01. Dez 11	 Donnerstag	09.30	16.30
+02. Dez 11	 Freitag	09.35	17.35
+03. Dez 11	 --Samstag--		
+04. Dez 11	 --Sonntag--		
+05. Dez 11	 Montag		09.40	18.10
+06. Dez 11	 Dienstag	09.20	17.50
+07. Dez 11	 Mittwoch	09.50	18.20
+08. Dez 11	 Donnerstag	10.10	20.10
+09. Dez 11	 Freitag	09.00	16.30
+10. Dez 11	 --Samstag--		
+11. Dez 11	 --Sonntag--		
+12. Dez 11	 Montag		11.25	18.00
+13. Dez 11	 Dienstag	11.10	22.10
+14. Dez 11	 Mittwoch	10.20	19.20
+15. Dez 11	 Donnerstag	09.40	17.10
+16. Dez 11	 Freitag	10.15	20.15
+17. Dez 11	 --Samstag--		
+18. Dez 11	 --Sonntag--		
+19. Dez 11	 Montag		07.50	08.50
+
+20. Dez 11	 Dienstag	10.10	18.15
+21. Dez 11	 Mittwoch	09.30	18.40
+22. Dez 11	 Donnerstag	09.20	17.20
+23. Dez 11	 Freitag	10.15	16.40
+
+27. Dez 11	 Dienstag	09.50	17.10
+28. Dez 11	 Mittwoch	10.10	18.40
+29. Dez 11	 Donnerstag	09.40	18.10
+30. Dez 11	 Freitag	10.00	18.30
+
+
+ 

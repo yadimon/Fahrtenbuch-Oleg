@@ -1,0 +1,531 @@
+04.01.11  11:50  12:00  G. Carapoulious     Fichterstr 25                      gesch‰ftlich  116265    3    116268    Orlov
+04.01.11  15:30  15:35  TankStelle          Sulzbacherstr. 10-12               gesch‰ftlich  116268    2    116270    Orlov
+04.01.11  15:40  16:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  116270    17   116287    Orlov
+04.01.11  19:20  19:44  home                Berckhauserstr 44                  gesch‰ftlich  116287    12   116299    Orlov
+05.01.11  10:50  11:15  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  116299    13   116312    Orlov
+05.01.11  19:15  19:39  home                Berckhauserstr 44                  gesch‰ftlich  116312    12   116324    Orlov
+06.01.11  09:00  11:00  Ist GmbH            Eschenstrasse 66 Taufkirchen       gesch‰ftlich  116324    207  116531    Orlov
+06.01.11  13:30  15:30  home                Berckhauserstr 44                  gesch‰ftlich  116531    202  116733    Orlov
+07.01.11  20:38  20:43  TankStelle          Grolandstr 65                      gesch‰ftlich  116733    1    116734    Orlov
+07.01.11  20:48  20:53  home                Berckhauserstr 44                  gesch‰ftlich  116734    1    116735    Orlov
+10.01.11  10:00  10:25  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  116735    13   116748    Orlov
+10.01.11  19:45  20:09  home                Berckhauserstr 44                  gesch‰ftlich  116748    12   116760    Orlov
+11.01.11  10:05  10:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  116760    13   116773    Orlov
+11.01.11  20:00  20:24  home                Berckhauserstr 44                  gesch‰ftlich  116773    12   116785    Orlov
+12.01.11  11:05  11:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  116785    13   116798    Orlov
+12.01.11  20:00  20:24  home                Berckhauserstr 44                  gesch‰ftlich  116798    12   116810    Orlov
+13.01.11  10:00  10:25  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  116810    13   116823    Orlov
+13.01.11  16:40  17:04  home                Berckhauserstr 44                  gesch‰ftlich  116823    12   116835    Orlov
+14.01.11  10:25  10:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  116835    13   116848    Orlov
+14.01.11  20:05  20:29  home                Berckhauserstr 44                  gesch‰ftlich  116848    12   116860    Orlov
+15.01.11  09:55  10:20  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  116860    13   116873    Orlov
+15.01.11  17:35  17:59  home                Berckhauserstr 44                  gesch‰ftlich  116873    12   116885    Orlov
+17.01.11  08:50  09:15  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  116885    9    116894    Orlov
+17.01.11  14:45  14:51  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  116894    2    116896    Orlov
+17.01.11  14:56  15:35  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  116896    21   116917    Orlov
+17.01.11  20:15  20:39  home                Berckhauserstr 44                  gesch‰ftlich  116917    12   116929    Orlov
+18.01.11  09:40  10:05  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  116929    13   116942    Orlov
+18.01.11  19:35  19:59  home                Berckhauserstr 44                  gesch‰ftlich  116942    12   116954    Orlov
+19.01.11  10:00  10:25  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  116954    13   116967    Orlov
+19.01.11  19:25  19:49  home                Berckhauserstr 44                  gesch‰ftlich  116967    12   116979    Orlov
+20.01.11  09:50  10:15  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  116979    13   116992    Orlov
+20.01.11  16:45  17:09  home                Berckhauserstr 44                  gesch‰ftlich  116992    12   117004    Orlov
+21.01.11  09:45  10:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117004    13   117017    Orlov
+21.01.11  16:40  17:04  home                Berckhauserstr 44                  gesch‰ftlich  117017    12   117029    Orlov
+22.01.11  09:10  09:35  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117029    13   117042    Orlov
+22.01.11  17:05  17:29  home                Berckhauserstr 44                  gesch‰ftlich  117042    12   117054    Orlov
+24.01.11  09:45  10:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117054    13   117067    Orlov
+24.01.11  18:40  19:04  home                Berckhauserstr 44                  gesch‰ftlich  117067    12   117079    Orlov
+25.01.11  09:25  09:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117079    13   117092    Orlov
+25.01.11  14:40  15:04  home                Berckhauserstr 44                  gesch‰ftlich  117092    12   117104    Orlov
+26.01.11  09:00  09:25  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117104    13   117117    Orlov
+26.01.11  18:55  19:19  home                Berckhauserstr 44                  gesch‰ftlich  117117    12   117129    Orlov
+27.01.11  09:20  09:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117129    13   117142    Orlov
+27.01.11  19:00  19:24  home                Berckhauserstr 44                  gesch‰ftlich  117142    12   117154    Orlov
+28.01.11  09:05  09:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117154    13   117167    Orlov
+28.01.11  18:10  18:34  home                Berckhauserstr 44                  gesch‰ftlich  117167    12   117179    Orlov
+31.01.11  08:30  08:55  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117179    13   117192    Orlov
+31.01.11  18:55  19:19  home                Berckhauserstr 44                  gesch‰ftlich  117192    12   117204    Orlov
+01.02.11  10:05  10:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117204    13   117217    Orlov
+01.02.11  19:00  19:24  home                Berckhauserstr 44                  gesch‰ftlich  117217    12   117229    Orlov
+02.02.11  10:00  10:25  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117229    13   117242    Orlov
+02.02.11  19:25  19:49  home                Berckhauserstr 44                  gesch‰ftlich  117242    12   117254    Orlov
+03.02.11  09:20  09:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117254    13   117267    Orlov
+03.02.11  16:45  17:09  home                Berckhauserstr 44                  gesch‰ftlich  117267    12   117279    Orlov
+04.02.11  09:45  09:50  TankStelle          Grolandstr 65                      gesch‰ftlich  117279    1    117280    Orlov
+04.02.11  09:55  10:25  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117280    12   117292    Orlov
+04.02.11  16:40  17:04  home                Berckhauserstr 44                  gesch‰ftlich  117292    12   117304    Orlov
+07.02.11  09:25  09:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117304    13   117317    Orlov
+07.02.11  19:50  20:14  home                Berckhauserstr 44                  gesch‰ftlich  117317    12   117329    Orlov
+08.02.11  09:45  10:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117329    13   117342    Orlov
+08.02.11  19:40  20:04  home                Berckhauserstr 44                  gesch‰ftlich  117342    12   117354    Orlov
+09.02.11  10:20  10:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117354    13   117367    Orlov
+09.02.11  20:00  20:24  home                Berckhauserstr 44                  gesch‰ftlich  117367    12   117379    Orlov
+10.02.11  09:05  09:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117379    13   117392    Orlov
+10.02.11  20:15  20:39  home                Berckhauserstr 44                  gesch‰ftlich  117392    12   117404    Orlov
+11.02.11  09:05  09:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117404    13   117417    Orlov
+11.02.11  19:00  19:24  home                Berckhauserstr 44                  gesch‰ftlich  117417    12   117429    Orlov
+12.02.11  10:20  10:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117429    13   117442    Orlov
+12.02.11  14:15  14:39  home                Berckhauserstr 44                  gesch‰ftlich  117442    12   117454    Orlov
+14.02.11  08:10  08:35  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117454    13   117467    Orlov
+14.02.11  18:20  18:44  home                Berckhauserstr 44                  gesch‰ftlich  117467    12   117479    Orlov
+15.02.11  08:30  08:55  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117479    13   117492    Orlov
+15.02.11  18:25  18:49  home                Berckhauserstr 44                  gesch‰ftlich  117492    12   117504    Orlov
+17.02.11  10:45  11:10  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117504    13   117517    Orlov
+17.02.11  19:55  20:19  home                Berckhauserstr 44                  gesch‰ftlich  117517    12   117529    Orlov
+18.02.11  10:10  10:35  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117529    13   117542    Orlov
+18.02.11  18:55  19:19  home                Berckhauserstr 44                  gesch‰ftlich  117542    12   117554    Orlov
+20.02.11  16:35  17:00  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  117554    9    117563    Orlov
+20.02.11  22:40  22:48  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  117563    2    117565    Orlov
+20.02.11  22:53  23:18  home                Berckhauserstr 44                  gesch‰ftlich  117565    10   117575    Orlov
+21.02.11  07:25  07:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  117575    13   117588    Orlov
+21.02.11  19:35  19:59  home                Berckhauserstr 44                  gesch‰ftlich  117588    12   117600    Orlov
+22.02.11  13:23  13:28  TankStelle          Grolandstr 65                      gesch‰ftlich  117600    1    117601    Orlov
+22.02.11  13:33  16:00  Siemens AG VG       Carl-Benz-Straﬂe 22 Frankfurt am Maingesch‰ftlich  117601    223  117824    Orlov
+22.02.11  18:20  20:36  home                Berckhauserstr 44                  gesch‰ftlich  117824    229  118053    Orlov
+23.02.11  10:20  10:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  118053    13   118066    Orlov
+23.02.11  19:05  19:29  home                Berckhauserstr 44                  gesch‰ftlich  118066    12   118078    Orlov
+24.02.11  10:15  10:40  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  118078    13   118091    Orlov
+24.02.11  16:30  16:54  home                Berckhauserstr 44                  gesch‰ftlich  118091    12   118103    Orlov
+25.02.11  10:35  11:00  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  118103    13   118116    Orlov
+25.02.11  16:40  17:04  home                Berckhauserstr 44                  gesch‰ftlich  118116    12   118128    Orlov
+28.02.11  09:25  09:50  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  118128    13   118141    Orlov
+28.02.11  18:20  18:44  home                Berckhauserstr 44                  gesch‰ftlich  118141    12   118153    Orlov
+01.03.11  08:30  08:55  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  118153    13   118166    Orlov
+01.03.11  16:45  17:09  home                Berckhauserstr 44                  gesch‰ftlich  118166    12   118178    Orlov
+02.03.11  10:05  10:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  118178    13   118191    Orlov
+02.03.11  19:30  19:54  home                Berckhauserstr 44                  gesch‰ftlich  118191    12   118203    Orlov
+03.03.11  09:20  09:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  118203    13   118216    Orlov
+03.03.11  19:45  20:09  home                Berckhauserstr 44                  gesch‰ftlich  118216    12   118228    Orlov
+04.03.11  08:35  09:00  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  118228    13   118241    Orlov
+04.03.11  16:45  17:09  home                Berckhauserstr 44                  gesch‰ftlich  118241    12   118253    Orlov
+05.03.11  16:35  17:00  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  118253    9    118262    Orlov
+05.03.11  22:55  23:02  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  118262    2    118264    Orlov
+05.03.11  23:07  23:32  home                Berckhauserstr 44                  gesch‰ftlich  118264    10   118274    Orlov
+07.03.11  10:00  10:25  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  118274    13   118287    Orlov
+07.03.11  19:40  20:04  home                Berckhauserstr 44                  gesch‰ftlich  118287    12   118299    Orlov
+08.03.11  11:05  11:30  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  118299    13   118312    Orlov
+08.03.11  18:45  19:09  home                Berckhauserstr 44                  gesch‰ftlich  118312    12   118324    Orlov
+09.03.11  09:20  09:45  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  118324    13   118337    Orlov
+09.03.11  19:15  19:39  home                Berckhauserstr 44                  gesch‰ftlich  118337    12   118349    Orlov
+10.03.11  09:55  10:20  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  118349    13   118362    Orlov
+10.03.11  18:40  19:08  TankStelle          Grolandstr 65                      gesch‰ftlich  118362    12   118374    Orlov
+10.03.11  19:13  19:18  home                Berckhauserstr 44                  gesch‰ftlich  118374    1    118375    Orlov
+11.03.11  08:35  09:00  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  118375    13   118388    Orlov
+11.03.11  16:00  16:24  home                Berckhauserstr 44                  gesch‰ftlich  118388    12   118400    Orlov
+13.03.11  17:11  17:16  TankStelle          Grolandstr 65                      gesch‰ftlich  118400    1    118401    Orlov
+13.03.11  17:21  17:26  home                Berckhauserstr 44                  gesch‰ftlich  118401    1    118402    Orlov
+14.03.11  11:43  14:00  Mercedes Benz AG    Mercedesstraﬂe 102 Stuttgart       gesch‰ftlich  118402    229  118631    Orlov
+14.03.11  15:45  18:03  home                Berckhauserstr 44                  gesch‰ftlich  118631    222  118853    Orlov
+18.03.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  118853    13   118866    Orlov
+18.03.11  11:15  11:43  home                Berckhauserstr 44                  gesch‰ftlich  118866    12   118878    Orlov
+20.03.11  16:35  17:00  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  118878    9    118887    Orlov
+20.03.11  21:45  21:50  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  118887    2    118889    Orlov
+20.03.11  21:55  22:20  home                Berckhauserstr 44                  gesch‰ftlich  118889    10   118899    Orlov
+16.04.11  12:14  12:19  TankStelle          Grolandstr 65                      gesch‰ftlich  118899    1    118900    Orlov
+16.04.11  12:24  12:29  home                Berckhauserstr 44                  gesch‰ftlich  118900    1    118901    Orlov
+17.04.11  09:41  09:46  TankStelle          Grolandstr 65                      gesch‰ftlich  118901    1    118902    Orlov
+17.04.11  09:51  11:55  D. Kirschner        Platzl 6 M¸nchen                   gesch‰ftlich  118902    176  119078    Orlov
+17.04.11  15:05  17:00  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  119078    179  119257    Orlov
+17.04.11  21:35  21:41  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  119257    2    119259    Orlov
+17.04.11  21:46  22:11  home                Berckhauserstr 44                  gesch‰ftlich  119259    10   119269    Orlov
+29.04.11  10:02  10:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  119269    13   119282    Orlov
+29.04.11  11:20  11:48  home                Berckhauserstr 44                  gesch‰ftlich  119282    12   119294    Orlov
+02.05.11  08:17  08:45  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  119294    13   119307    Orlov
+02.05.11  17:45  18:13  home                Berckhauserstr 44                  gesch‰ftlich  119307    12   119319    Orlov
+03.05.11  08:02  08:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  119319    13   119332    Orlov
+03.05.11  16:15  16:43  home                Berckhauserstr 44                  gesch‰ftlich  119332    12   119344    Orlov
+04.05.11  08:17  08:45  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  119344    13   119357    Orlov
+04.05.11  17:45  18:13  home                Berckhauserstr 44                  gesch‰ftlich  119357    12   119369    Orlov
+05.05.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  119369    13   119382    Orlov
+05.05.11  14:00  14:28  home                Berckhauserstr 44                  gesch‰ftlich  119382    12   119394    Orlov
+08.05.11  16:35  17:00  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  119394    9    119403    Orlov
+08.05.11  22:50  22:55  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  119403    2    119405    Orlov
+08.05.11  23:00  23:25  home                Berckhauserstr 44                  gesch‰ftlich  119405    10   119415    Orlov
+09.05.11  12:02  12:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  119415    13   119428    Orlov
+09.05.11  20:00  20:28  home                Berckhauserstr 44                  gesch‰ftlich  119428    12   119440    Orlov
+10.05.11  09:22  09:50  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  119440    13   119453    Orlov
+10.05.11  18:50  19:18  home                Berckhauserstr 44                  gesch‰ftlich  119453    12   119465    Orlov
+11.05.11  10:32  11:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  119465    13   119478    Orlov
+11.05.11  19:30  19:58  home                Berckhauserstr 44                  gesch‰ftlich  119478    12   119490    Orlov
+12.05.11  08:08  10:00  Audi Werke          NSU-Straﬂe 1 Nekrasulm             gesch‰ftlich  119490    174  119664    Orlov
+12.05.11  18:30  20:21  home                Berckhauserstr 44                  gesch‰ftlich  119664    183  119847    Orlov
+13.05.11  09:12  09:40  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  119847    13   119860    Orlov
+13.05.11  18:40  19:08  home                Berckhauserstr 44                  gesch‰ftlich  119860    12   119872    Orlov
+15.05.11  12:49  12:54  TankStelle          Grolandstr 65                      gesch‰ftlich  119872    1    119873    Orlov
+15.05.11  12:59  13:04  home                Berckhauserstr 44                  gesch‰ftlich  119873    1    119874    Orlov
+16.05.11  08:17  08:45  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  119874    13   119887    Orlov
+16.05.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  119887    12   119899    Orlov
+17.05.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  119899    13   119912    Orlov
+17.05.11  18:30  18:58  home                Berckhauserstr 44                  gesch‰ftlich  119912    12   119924    Orlov
+18.05.11  08:17  08:45  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  119924    13   119937    Orlov
+18.05.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  119937    12   119949    Orlov
+19.05.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  119949    13   119962    Orlov
+19.05.11  18:30  18:58  home                Berckhauserstr 44                  gesch‰ftlich  119962    12   119974    Orlov
+20.05.11  08:02  08:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  119974    13   119987    Orlov
+20.05.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  119987    12   119999    Orlov
+22.05.11  16:35  17:00  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  119999    9    120008    Orlov
+22.05.11  21:35  21:40  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  120008    2    120010    Orlov
+22.05.11  21:45  22:10  home                Berckhauserstr 44                  gesch‰ftlich  120010    10   120020    Orlov
+23.05.11  07:47  08:15  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  120020    13   120033    Orlov
+23.05.11  17:45  18:13  home                Berckhauserstr 44                  gesch‰ftlich  120033    12   120045    Orlov
+24.05.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  120045    13   120058    Orlov
+24.05.11  19:00  19:28  home                Berckhauserstr 44                  gesch‰ftlich  120058    12   120070    Orlov
+25.05.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  120070    13   120083    Orlov
+25.05.11  18:30  18:58  home                Berckhauserstr 44                  gesch‰ftlich  120083    12   120095    Orlov
+26.05.11  07:32  08:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  120095    13   120108    Orlov
+26.05.11  16:30  16:58  home                Berckhauserstr 44                  gesch‰ftlich  120108    12   120120    Orlov
+27.05.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  120120    13   120133    Orlov
+27.05.11  18:30  18:58  home                Berckhauserstr 44                  gesch‰ftlich  120133    12   120145    Orlov
+30.05.11  08:08  10:00  Audi Werke          NSU-Straﬂe 1 Nekrasulm             gesch‰ftlich  120145    179  120324    Orlov
+30.05.11  18:15  20:06  home                Berckhauserstr 44                  gesch‰ftlich  120324    185  120509    Orlov
+31.05.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  120509    13   120522    Orlov
+31.05.11  17:00  17:29  TankStelle          Grolandstr 65                      gesch‰ftlich  120522    13   120535    Orlov
+31.05.11  17:34  17:39  home                Berckhauserstr 44                  gesch‰ftlich  120535    1    120536    Orlov
+01.06.11  08:12  08:40  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  120536    13   120549    Orlov
+01.06.11  18:40  19:08  home                Berckhauserstr 44                  gesch‰ftlich  120549    12   120561    Orlov
+04.06.11  08:13  10:58  TankStelle          Europastraﬂe 57 T¸bingen           gesch‰ftlich  120561    275  120836    Orlov
+04.06.11  11:03  11:30  Itdesign GmbH       Karlstraﬂe 3 T¸bingen              gesch‰ftlich  120836    4    120840    Orlov
+04.06.11  14:00  16:41  home                Berckhauserstr 44                  gesch‰ftlich  120840    285  121125    Orlov
+05.06.11  17:31  17:36  TankStelle          Grolandstr 65                      gesch‰ftlich  121125    1    121126    Orlov
+05.06.11  17:41  18:00  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  121126    9    121135    Orlov
+05.06.11  21:15  21:23  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  121135    2    121137    Orlov
+05.06.11  21:28  21:53  home                Berckhauserstr 44                  gesch‰ftlich  121137    10   121147    Orlov
+06.06.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121147    13   121160    Orlov
+06.06.11  18:30  18:58  home                Berckhauserstr 44                  gesch‰ftlich  121160    12   121172    Orlov
+07.06.11  08:42  09:10  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121172    13   121185    Orlov
+07.06.11  19:10  19:38  home                Berckhauserstr 44                  gesch‰ftlich  121185    12   121197    Orlov
+08.06.11  08:17  08:45  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121197    13   121210    Orlov
+08.06.11  18:15  18:43  home                Berckhauserstr 44                  gesch‰ftlich  121210    12   121222    Orlov
+09.06.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121222    13   121235    Orlov
+09.06.11  18:30  18:58  home                Berckhauserstr 44                  gesch‰ftlich  121235    12   121247    Orlov
+10.06.11  08:02  08:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121247    13   121260    Orlov
+10.06.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  121260    12   121272    Orlov
+14.06.11  08:42  09:10  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121272    13   121285    Orlov
+14.06.11  18:40  19:08  home                Berckhauserstr 44                  gesch‰ftlich  121285    12   121297    Orlov
+15.06.11  08:47  09:15  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121297    13   121310    Orlov
+15.06.11  19:15  19:43  home                Berckhauserstr 44                  gesch‰ftlich  121310    12   121322    Orlov
+20.06.11  08:17  08:45  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121322    13   121335    Orlov
+20.06.11  18:45  19:13  home                Berckhauserstr 44                  gesch‰ftlich  121335    12   121347    Orlov
+21.06.11  08:42  09:10  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121347    13   121360    Orlov
+21.06.11  18:40  19:08  home                Berckhauserstr 44                  gesch‰ftlich  121360    12   121372    Orlov
+22.06.11  08:47  09:15  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121372    13   121385    Orlov
+22.06.11  18:45  19:13  home                Berckhauserstr 44                  gesch‰ftlich  121385    12   121397    Orlov
+23.06.11  10:47  10:52  TankStelle          Grolandstr 65                      gesch‰ftlich  121397    1    121398    Orlov
+23.06.11  10:57  11:02  home                Berckhauserstr 44                  gesch‰ftlich  121398    1    121399    Orlov
+24.06.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121399    13   121412    Orlov
+24.06.11  19:00  19:28  home                Berckhauserstr 44                  gesch‰ftlich  121412    12   121424    Orlov
+26.06.11  16:35  17:00  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  121424    9    121433    Orlov
+26.06.11  21:30  21:37  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  121433    2    121435    Orlov
+26.06.11  21:42  22:07  home                Berckhauserstr 44                  gesch‰ftlich  121435    10   121445    Orlov
+27.06.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121445    13   121458    Orlov
+27.06.11  18:15  18:43  home                Berckhauserstr 44                  gesch‰ftlich  121458    12   121470    Orlov
+28.06.11  08:47  09:15  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121470    13   121483    Orlov
+28.06.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  121483    12   121495    Orlov
+29.06.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121495    13   121508    Orlov
+29.06.11  18:30  18:58  home                Berckhauserstr 44                  gesch‰ftlich  121508    12   121520    Orlov
+30.06.11  08:37  09:05  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121520    13   121533    Orlov
+30.06.11  17:35  18:03  home                Berckhauserstr 44                  gesch‰ftlich  121533    12   121545    Orlov
+01.07.11  08:38  10:30  Audi Werke          NSU-Straﬂe 1 Nekrasulm             gesch‰ftlich  121545    171  121716    Orlov
+01.07.11  19:00  20:51  home                Berckhauserstr 44                  gesch‰ftlich  121716    186  121902    Orlov
+03.07.11  18:23  18:28  TankStelle          Grolandstr 65                      gesch‰ftlich  121902    1    121903    Orlov
+03.07.11  18:33  18:38  home                Berckhauserstr 44                  gesch‰ftlich  121903    1    121904    Orlov
+04.07.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121904    13   121917    Orlov
+04.07.11  17:20  17:48  home                Berckhauserstr 44                  gesch‰ftlich  121917    12   121929    Orlov
+05.07.11  08:42  09:10  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121929    13   121942    Orlov
+05.07.11  17:40  18:08  home                Berckhauserstr 44                  gesch‰ftlich  121942    12   121954    Orlov
+06.07.11  09:12  09:40  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121954    13   121967    Orlov
+06.07.11  17:40  18:08  home                Berckhauserstr 44                  gesch‰ftlich  121967    12   121979    Orlov
+07.07.11  09:22  09:50  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  121979    13   121992    Orlov
+07.07.11  17:20  17:48  home                Berckhauserstr 44                  gesch‰ftlich  121992    12   122004    Orlov
+08.07.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122004    13   122017    Orlov
+08.07.11  20:00  20:28  home                Berckhauserstr 44                  gesch‰ftlich  122017    12   122029    Orlov
+11.07.11  08:47  09:15  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122029    13   122042    Orlov
+11.07.11  17:00  17:28  home                Berckhauserstr 44                  gesch‰ftlich  122042    12   122054    Orlov
+12.07.11  08:47  09:15  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122054    13   122067    Orlov
+12.07.11  17:45  18:13  home                Berckhauserstr 44                  gesch‰ftlich  122067    12   122079    Orlov
+13.07.11  08:47  09:15  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122079    13   122092    Orlov
+13.07.11  17:15  17:43  home                Berckhauserstr 44                  gesch‰ftlich  122092    12   122104    Orlov
+14.07.11  08:37  09:05  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122104    13   122117    Orlov
+14.07.11  18:20  18:48  home                Berckhauserstr 44                  gesch‰ftlich  122117    12   122129    Orlov
+15.07.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122129    13   122142    Orlov
+15.07.11  17:50  18:18  home                Berckhauserstr 44                  gesch‰ftlich  122142    12   122154    Orlov
+18.07.11  09:29  09:34  TankStelle          Grolandstr 65                      gesch‰ftlich  122154    1    122155    Orlov
+18.07.11  09:39  10:15  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122155    13   122168    Orlov
+18.07.11  17:45  18:13  home                Berckhauserstr 44                  gesch‰ftlich  122168    12   122180    Orlov
+19.07.11  08:42  09:10  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122180    13   122193    Orlov
+19.07.11  17:10  17:38  home                Berckhauserstr 44                  gesch‰ftlich  122193    12   122205    Orlov
+20.07.11  08:42  09:10  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122205    13   122218    Orlov
+20.07.11  17:10  17:38  home                Berckhauserstr 44                  gesch‰ftlich  122218    12   122230    Orlov
+21.07.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122230    13   122243    Orlov
+21.07.11  17:00  17:28  home                Berckhauserstr 44                  gesch‰ftlich  122243    12   122255    Orlov
+22.07.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122255    13   122268    Orlov
+22.07.11  17:50  18:18  home                Berckhauserstr 44                  gesch‰ftlich  122268    12   122280    Orlov
+24.07.11  17:51  17:56  TankStelle          Grolandstr 65                      gesch‰ftlich  122280    1    122281    Orlov
+24.07.11  18:01  18:06  home                Berckhauserstr 44                  gesch‰ftlich  122281    1    122282    Orlov
+25.07.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122282    13   122295    Orlov
+25.07.11  17:00  17:28  home                Berckhauserstr 44                  gesch‰ftlich  122295    12   122307    Orlov
+26.07.11  08:57  09:25  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122307    13   122320    Orlov
+26.07.11  17:10  17:38  home                Berckhauserstr 44                  gesch‰ftlich  122320    12   122332    Orlov
+27.07.11  09:07  09:35  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122332    13   122345    Orlov
+27.07.11  17:20  17:48  home                Berckhauserstr 44                  gesch‰ftlich  122345    12   122357    Orlov
+28.07.11  08:42  09:10  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122357    13   122370    Orlov
+28.07.11  19:25  19:53  home                Berckhauserstr 44                  gesch‰ftlich  122370    12   122382    Orlov
+29.07.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122382    13   122395    Orlov
+29.07.11  18:05  18:33  home                Berckhauserstr 44                  gesch‰ftlich  122395    12   122407    Orlov
+31.07.11  16:35  17:00  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  122407    9    122416    Orlov
+31.07.11  22:05  22:13  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  122416    2    122418    Orlov
+31.07.11  22:18  22:43  home                Berckhauserstr 44                  gesch‰ftlich  122418    10   122428    Orlov
+01.08.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122428    13   122441    Orlov
+01.08.11  17:20  17:48  home                Berckhauserstr 44                  gesch‰ftlich  122441    12   122453    Orlov
+02.08.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122453    13   122466    Orlov
+02.08.11  15:50  16:18  home                Berckhauserstr 44                  gesch‰ftlich  122466    12   122478    Orlov
+03.08.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122478    13   122491    Orlov
+03.08.11  17:30  17:58  home                Berckhauserstr 44                  gesch‰ftlich  122491    12   122503    Orlov
+04.08.11  08:22  08:50  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122503    13   122516    Orlov
+04.08.11  19:20  19:48  home                Berckhauserstr 44                  gesch‰ftlich  122516    12   122528    Orlov
+05.08.11  08:42  09:10  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  122528    13   122541    Orlov
+05.08.11  16:40  17:10  TankStelle          Grolandstr 65                      gesch‰ftlich  122541    13   122554    Orlov
+05.08.11  17:15  17:20  home                Berckhauserstr 44                  gesch‰ftlich  122554    1    122555    Orlov
+07.08.11  10:34  13:00  Jterms              Jaupstraﬂe 7 Darmstadt             gesch‰ftlich  122555    251  122806    Orlov
+07.08.11  15:15  15:29  TankStelle          Siemensstr 2 Darmstadt             gesch‰ftlich  122806    2    122808    Orlov
+07.08.11  15:34  17:56  home                Berckhauserstr 44                  gesch‰ftlich  122808    244  123052    Orlov
+08.08.11  08:22  08:50  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123052    13   123065    Orlov
+08.08.11  17:50  18:18  home                Berckhauserstr 44                  gesch‰ftlich  123065    12   123077    Orlov
+09.08.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123077    13   123090    Orlov
+09.08.11  17:50  18:18  home                Berckhauserstr 44                  gesch‰ftlich  123090    12   123102    Orlov
+10.08.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123102    13   123115    Orlov
+10.08.11  18:30  18:58  home                Berckhauserstr 44                  gesch‰ftlich  123115    12   123127    Orlov
+11.08.11  08:47  09:15  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123127    13   123140    Orlov
+11.08.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  123140    12   123152    Orlov
+12.08.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123152    13   123165    Orlov
+12.08.11  17:50  18:18  home                Berckhauserstr 44                  gesch‰ftlich  123165    12   123177    Orlov
+14.08.11  21:58  22:23  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  123177    10   123187    Orlov
+14.08.11  22:28  22:53  home                Berckhauserstr 44                  gesch‰ftlich  123187    10   123197    Orlov
+15.08.11  09:33  09:49  TankStelle          Regensburgerstr 290                gesch‰ftlich  123197    7    123204    Orlov
+15.08.11  09:54  10:10  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123204    6    123210    Orlov
+15.08.11  10:30  12:20  Audi Werke          NSU-Straﬂe 1 Nekrasulm             gesch‰ftlich  123210    168  123378    Orlov
+15.08.11  19:30  21:21  home                Berckhauserstr 44                  gesch‰ftlich  123378    187  123565    Orlov
+16.08.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123565    13   123578    Orlov
+16.08.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  123578    12   123590    Orlov
+17.08.11  08:42  09:10  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123590    13   123603    Orlov
+17.08.11  17:25  17:53  home                Berckhauserstr 44                  gesch‰ftlich  123603    12   123615    Orlov
+18.08.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123615    13   123628    Orlov
+18.08.11  16:30  16:58  home                Berckhauserstr 44                  gesch‰ftlich  123628    12   123640    Orlov
+19.08.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123640    13   123653    Orlov
+19.08.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  123653    12   123665    Orlov
+22.08.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123665    13   123678    Orlov
+22.08.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  123678    12   123690    Orlov
+23.08.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123690    13   123703    Orlov
+23.08.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  123703    12   123715    Orlov
+24.08.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123715    13   123728    Orlov
+24.08.11  19:00  19:28  home                Berckhauserstr 44                  gesch‰ftlich  123728    12   123740    Orlov
+25.08.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123740    13   123753    Orlov
+25.08.11  19:20  19:48  home                Berckhauserstr 44                  gesch‰ftlich  123753    12   123765    Orlov
+26.08.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123765    13   123778    Orlov
+26.08.11  16:50  17:18  home                Berckhauserstr 44                  gesch‰ftlich  123778    12   123790    Orlov
+28.08.11  13:28  13:33  TankStelle          Grolandstr 65                      gesch‰ftlich  123790    1    123791    Orlov
+28.08.11  13:38  13:43  home                Berckhauserstr 44                  gesch‰ftlich  123791    1    123792    Orlov
+29.08.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123792    13   123805    Orlov
+29.08.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  123805    12   123817    Orlov
+30.08.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123817    13   123830    Orlov
+30.08.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  123830    12   123842    Orlov
+31.08.11  09:12  09:40  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123842    13   123855    Orlov
+31.08.11  18:10  18:38  home                Berckhauserstr 44                  gesch‰ftlich  123855    12   123867    Orlov
+01.09.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123867    13   123880    Orlov
+01.09.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  123880    12   123892    Orlov
+02.09.11  08:42  09:10  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123892    13   123905    Orlov
+02.09.11  18:10  18:38  home                Berckhauserstr 44                  gesch‰ftlich  123905    12   123917    Orlov
+05.09.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123917    13   123930    Orlov
+05.09.11  19:30  19:58  home                Berckhauserstr 44                  gesch‰ftlich  123930    12   123942    Orlov
+06.09.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123942    13   123955    Orlov
+06.09.11  19:20  19:48  home                Berckhauserstr 44                  gesch‰ftlich  123955    12   123967    Orlov
+07.09.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  123967    13   123980    Orlov
+07.09.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  123980    12   123992    Orlov
+08.09.11  09:35  10:00  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  123992    9    124001    Orlov
+08.09.11  15:00  15:07  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  124001    2    124003    Orlov
+08.09.11  15:12  15:40  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  124003    17   124020    Orlov
+08.09.11  21:40  22:08  home                Berckhauserstr 44                  gesch‰ftlich  124020    12   124032    Orlov
+09.09.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  124032    13   124045    Orlov
+09.09.11  19:15  19:43  home                Berckhauserstr 44                  gesch‰ftlich  124045    12   124057    Orlov
+12.09.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  124057    13   124070    Orlov
+12.09.11  17:00  17:28  home                Berckhauserstr 44                  gesch‰ftlich  124070    12   124082    Orlov
+13.09.11  09:12  09:40  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  124082    13   124095    Orlov
+13.09.11  19:10  19:38  home                Berckhauserstr 44                  gesch‰ftlich  124095    12   124107    Orlov
+14.09.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  124107    13   124120    Orlov
+14.09.11  17:30  17:44  TankStelle          Regensburgerstr 290                gesch‰ftlich  124120    7    124127    Orlov
+14.09.11  17:49  18:05  home                Berckhauserstr 44                  gesch‰ftlich  124127    7    124134    Orlov
+15.09.11  09:22  09:50  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  124134    13   124147    Orlov
+15.09.11  17:20  17:48  home                Berckhauserstr 44                  gesch‰ftlich  124147    12   124159    Orlov
+16.09.11  08:58  10:50  Audi Werke          NSU-Straﬂe 1 Nekrasulm             gesch‰ftlich  124159    177  124336    Orlov
+16.09.11  19:20  21:11  home                Berckhauserstr 44                  gesch‰ftlich  124336    180  124516    Orlov
+17.09.11  09:35  10:00  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  124516    9    124525    Orlov
+17.09.11  15:35  15:43  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  124525    2    124527    Orlov
+17.09.11  15:48  16:13  home                Berckhauserstr 44                  gesch‰ftlich  124527    10   124537    Orlov
+19.09.11  09:15  09:31  TankStelle          Regensburgerstr 290                gesch‰ftlich  124537    7    124544    Orlov
+19.09.11  09:36  09:50  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  124544    6    124550    Orlov
+19.09.11  11:15  12:50  Audi Werke          NSU-Straﬂe 1 Nekrasulm             gesch‰ftlich  124550    162  124712    Orlov
+19.09.11  19:30  21:21  home                Berckhauserstr 44                  gesch‰ftlich  124712    188  124900    Orlov
+20.09.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  124900    13   124913    Orlov
+20.09.11  16:50  17:18  home                Berckhauserstr 44                  gesch‰ftlich  124913    12   124925    Orlov
+21.09.11  08:02  8:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  124925    13   124938    Orlov
+21.09.11  16:30  16:58  TankStelle          Erlanger Straﬂe 40                 gesch‰ftlich  124938    20   124958    Orlov
+21.09.11  17:03  17:20  Elektrobit GmbH     Am Wolfsmantel 46 Erlangen         gesch‰ftlich  124958    10   124968    Orlov
+21.09.11  18:30  18:54  home                Berckhauserstr 44                  gesch‰ftlich  124968    12   124980    Orlov
+22.09.11  09:22  09:50  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  124980    13   124993    Orlov
+22.09.11  16:50  17:18  home                Berckhauserstr 44                  gesch‰ftlich  124993    12   125005    Orlov
+23.09.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125005    13   125018    Orlov
+23.09.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  125018    12   125030    Orlov
+26.09.11  09:17  09:45  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125030    13   125043    Orlov
+26.09.11  17:45  18:13  home                Berckhauserstr 44                  gesch‰ftlich  125043    12   125055    Orlov
+27.09.11  09:17  09:45  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125055    13   125068    Orlov
+27.09.11  17:00  17:28  home                Berckhauserstr 44                  gesch‰ftlich  125068    12   125080    Orlov
+28.09.11  09:12  09:40  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125080    13   125093    Orlov
+28.09.11  18:10  18:38  home                Berckhauserstr 44                  gesch‰ftlich  125093    12   125105    Orlov
+29.09.11  09:32  10:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125105    13   125118    Orlov
+29.09.11  19:00  19:28  home                Berckhauserstr 44                  gesch‰ftlich  125118    12   125130    Orlov
+30.09.11  09:32  10:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125130    13   125143    Orlov
+30.09.11  18:30  18:58  home                Berckhauserstr 44                  gesch‰ftlich  125143    12   125155    Orlov
+04.10.11  09:21  09:37  TankStelle          Regensburgerstr 290                gesch‰ftlich  125155    7    125162    Orlov
+04.10.11  09:42  10:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125162    6    125168    Orlov
+04.10.11  17:00  17:28  home                Berckhauserstr 44                  gesch‰ftlich  125168    12   125180    Orlov
+05.10.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125180    13   125193    Orlov
+05.10.11  19:20  19:48  home                Berckhauserstr 44                  gesch‰ftlich  125193    12   125205    Orlov
+06.10.11  08:47  09:15  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125205    13   125218    Orlov
+06.10.11  17:15  17:43  home                Berckhauserstr 44                  gesch‰ftlich  125218    12   125230    Orlov
+07.10.11  09:32  10:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125230    13   125243    Orlov
+07.10.11  19:50  20:16  TankStelle          Sulzbacherstr. 10-12               gesch‰ftlich  125243    11   125254    Orlov
+07.10.11  20:21  20:32  home                Berckhauserstr 44                  gesch‰ftlich  125254    3    125257    Orlov
+09.10.11  16:35  17:00  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  125257    9    125266    Orlov
+09.10.11  21:35  21:40  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  125266    2    125268    Orlov
+09.10.11  21:45  22:10  home                Berckhauserstr 44                  gesch‰ftlich  125268    10   125278    Orlov
+10.10.11  09:12  09:40  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125278    13   125291    Orlov
+10.10.11  17:40  18:08  home                Berckhauserstr 44                  gesch‰ftlich  125291    12   125303    Orlov
+11.10.11  10:32  11:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125303    13   125316    Orlov
+11.10.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  125316    12   125328    Orlov
+12.10.11  09:52  10:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125328    13   125341    Orlov
+12.10.11  19:20  19:48  home                Berckhauserstr 44                  gesch‰ftlich  125341    12   125353    Orlov
+13.10.11  09:32  10:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125353    13   125366    Orlov
+13.10.11  17:00  17:28  home                Berckhauserstr 44                  gesch‰ftlich  125366    12   125378    Orlov
+14.10.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125378    13   125391    Orlov
+14.10.11  19:30  19:58  home                Berckhauserstr 44                  gesch‰ftlich  125391    12   125403    Orlov
+17.10.11  10:12  10:40  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125403    13   125416    Orlov
+17.10.11  19:40  20:08  home                Berckhauserstr 44                  gesch‰ftlich  125416    12   125428    Orlov
+18.10.11  10:32  11:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125428    13   125441    Orlov
+18.10.11  19:00  19:28  home                Berckhauserstr 44                  gesch‰ftlich  125441    12   125453    Orlov
+19.10.11  09:32  10:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125453    13   125466    Orlov
+19.10.11  17:00  17:28  home                Berckhauserstr 44                  gesch‰ftlich  125466    12   125478    Orlov
+20.10.11  09:23  09:39  TankStelle          Regensburgerstr 290                gesch‰ftlich  125478    7    125485    Orlov
+20.10.11  09:44  10:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125485    6    125491    Orlov
+20.10.11  17:40  18:08  home                Berckhauserstr 44                  gesch‰ftlich  125491    12   125503    Orlov
+21.10.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125503    13   125516    Orlov
+21.10.11  19:30  19:58  home                Berckhauserstr 44                  gesch‰ftlich  125516    12   125528    Orlov
+23.10.11  16:35  17:00  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  125528    9    125537    Orlov
+23.10.11  21:45  21:53  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  125537    2    125539    Orlov
+23.10.11  21:58  22:23  home                Berckhauserstr 44                  gesch‰ftlich  125539    10   125549    Orlov
+24.10.11  09:21  09:37  TankStelle          Regensburgerstr 290                gesch‰ftlich  125549    7    125556    Orlov
+24.10.11  09:42  10:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125556    6    125562    Orlov
+24.10.11  10:20  11:50  Audi Werke          NSU-Straﬂe 1 Nekrasulm             gesch‰ftlich  125562    170  125732    Orlov
+24.10.11  19:00  20:51  home                Berckhauserstr 44                  gesch‰ftlich  125732    183  125915    Orlov
+25.10.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125915    13   125928    Orlov
+25.10.11  17:50  18:18  home                Berckhauserstr 44                  gesch‰ftlich  125928    12   125940    Orlov
+26.10.11  08:02  08:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  125940    13   125953    Orlov
+26.10.11  17:30  17:58  home                Berckhauserstr 44                  gesch‰ftlich  125953    12   125965    Orlov
+27.10.11  08:08  10:00  Audi Werke          NSU-Straﬂe 1 Nekrasulm             gesch‰ftlich  125965    172  126137    Orlov
+27.10.11  18:30  20:21  home                Berckhauserstr 44                  gesch‰ftlich  126137    181  126318    Orlov
+28.10.11  08:47  09:15  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  126318    13   126331    Orlov
+28.10.11  17:15  20:17  TankStelle          Malostranske namesti 22 Praha      gesch‰ftlich  126331    292  126623    Orlov
+28.10.11  20:22  20:52  TankStelle          na pankraci 127		  Praha           gesch‰ftlich  126623    9    126632    Orlov
+28.10.11  20:57  21:30  Flughaven Praha     Flughafen Prag (Letite Praha-Ruzyne), Aviatick·, Prahagesch‰ftlich  126632    28   126660    Orlov
+07.11.11  10:10  12:50  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  126660    281  126941    Orlov
+07.11.11  19:30  19:58  home                Berckhauserstr 44                  gesch‰ftlich  126941    12   126953    Orlov
+08.11.11  07:52  08:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  126953    13   126966    Orlov
+08.11.11  18:50  19:18  home                Berckhauserstr 44                  gesch‰ftlich  126966    12   126978    Orlov
+09.11.11  08:02  08:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  126978    13   126991    Orlov
+09.11.11  18:30  18:58  home                Berckhauserstr 44                  gesch‰ftlich  126991    12   127003    Orlov
+10.11.11  09:12  09:40  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  127003    13   127016    Orlov
+10.11.11  18:40  19:08  home                Berckhauserstr 44                  gesch‰ftlich  127016    12   127028    Orlov
+11.11.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  127028    13   127041    Orlov
+11.11.11  18:50  19:18  home                Berckhauserstr 44                  gesch‰ftlich  127041    12   127053    Orlov
+14.11.11  09:40  10:05  TankStelle          Gleiwitzer Str 220                 gesch‰ftlich  127053    12   127065    Orlov
+14.11.11  10:10  10:15  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  127065    2    127067    Orlov
+14.11.11  11:00  11:30  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  127067    15   127082    Orlov
+14.11.11  13:55  14:02  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  127082    2    127084    Orlov
+14.11.11  14:07  16:00  Audi Werke          NSU-Straﬂe 1 Nekrasulm             gesch‰ftlich  127084    178  127262    Orlov
+14.11.11  21:00  22:51  home                Berckhauserstr 44                  gesch‰ftlich  127262    178  127440    Orlov
+15.11.11  07:47  08:15  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  127440    13   127453    Orlov
+15.11.11  19:15  19:43  home                Berckhauserstr 44                  gesch‰ftlich  127453    12   127465    Orlov
+16.11.11  08:02  08:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  127465    13   127478    Orlov
+16.11.11  19:00  19:28  home                Berckhauserstr 44                  gesch‰ftlich  127478    12   127490    Orlov
+17.11.11  09:12  09:40  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  127490    13   127503    Orlov
+17.11.11  20:40  21:08  home                Berckhauserstr 44                  gesch‰ftlich  127503    12   127515    Orlov
+18.11.11  08:42  09:10  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  127515    13   127528    Orlov
+18.11.11  19:10  19:38  home                Berckhauserstr 44                  gesch‰ftlich  127528    12   127540    Orlov
+21.11.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  127540    13   127553    Orlov
+21.11.11  22:00  22:28  home                Berckhauserstr 44                  gesch‰ftlich  127553    12   127565    Orlov
+22.11.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  127565    13   127578    Orlov
+22.11.11  17:30  17:58  home                Berckhauserstr 44                  gesch‰ftlich  127578    12   127590    Orlov
+23.11.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  127590    13   127603    Orlov
+23.11.11  17:50  18:18  home                Berckhauserstr 44                  gesch‰ftlich  127603    12   127615    Orlov
+24.11.11  09:22  09:50  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  127615    13   127628    Orlov
+24.11.11  18:20  18:48  home                Berckhauserstr 44                  gesch‰ftlich  127628    12   127640    Orlov
+25.11.11  09:12  09:40  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  127640    13   127653    Orlov
+25.11.11  17:40  18:08  home                Berckhauserstr 44                  gesch‰ftlich  127653    12   127665    Orlov
+28.11.11  09:43  09:59  TankStelle          Regensburgerstr 290                gesch‰ftlich  127665    7    127672    Orlov
+28.11.11  10:04  10:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  127672    6    127678    Orlov
+28.11.11  10:30  12:05  Audi Werke          NSU-Straﬂe 1 Nekrasulm             gesch‰ftlich  127678    174  127852    Orlov
+28.11.11  18:20  20:11  home                Berckhauserstr 44                  gesch‰ftlich  127852    184  128036    Orlov
+29.11.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128036    13   128049    Orlov
+29.11.11  18:20  18:48  home                Berckhauserstr 44                  gesch‰ftlich  128049    12   128061    Orlov
+30.11.11  09:35  10:00  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  128061    9    128070    Orlov
+30.11.11  14:40  14:47  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  128070    2    128072    Orlov
+30.11.11  14:52  15:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128072    17   128089    Orlov
+30.11.11  23:00  23:28  home                Berckhauserstr 44                  gesch‰ftlich  128089    12   128101    Orlov
+01.12.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128101    13   128114    Orlov
+01.12.11  16:30  16:58  home                Berckhauserstr 44                  gesch‰ftlich  128114    12   128126    Orlov
+02.12.11  09:07  09:35  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128126    13   128139    Orlov
+02.12.11  17:35  18:03  home                Berckhauserstr 44                  gesch‰ftlich  128139    12   128151    Orlov
+05.12.11  09:12  09:40  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128151    13   128164    Orlov
+05.12.11  18:10  18:38  home                Berckhauserstr 44                  gesch‰ftlich  128164    12   128176    Orlov
+06.12.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128176    13   128189    Orlov
+06.12.11  17:50  18:18  home                Berckhauserstr 44                  gesch‰ftlich  128189    12   128201    Orlov
+07.12.11  09:22  09:50  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128201    13   128214    Orlov
+07.12.11  18:20  18:48  home                Berckhauserstr 44                  gesch‰ftlich  128214    12   128226    Orlov
+08.12.11  09:42  10:10  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128226    13   128239    Orlov
+08.12.11  20:10  20:38  home                Berckhauserstr 44                  gesch‰ftlich  128239    12   128251    Orlov
+09.12.11  08:32  09:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128251    13   128264    Orlov
+09.12.11  16:30  16:58  home                Berckhauserstr 44                  gesch‰ftlich  128264    12   128276    Orlov
+12.12.11  10:54  11:10  TankStelle          Regensburgerstr 290                gesch‰ftlich  128276    7    128283    Orlov
+12.12.11  11:15  11:25  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128283    6    128289    Orlov
+12.12.11  18:00  18:28  home                Berckhauserstr 44                  gesch‰ftlich  128289    12   128301    Orlov
+13.12.11  10:42  11:10  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128301    13   128314    Orlov
+13.12.11  22:10  22:38  home                Berckhauserstr 44                  gesch‰ftlich  128314    12   128326    Orlov
+14.12.11  09:52  10:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128326    13   128339    Orlov
+14.12.11  19:20  19:48  home                Berckhauserstr 44                  gesch‰ftlich  128339    12   128351    Orlov
+15.12.11  09:12  09:40  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128351    13   128364    Orlov
+15.12.11  17:10  17:38  home                Berckhauserstr 44                  gesch‰ftlich  128364    12   128376    Orlov
+16.12.11  09:47  10:15  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128376    13   128389    Orlov
+16.12.11  20:15  20:43  home                Berckhauserstr 44                  gesch‰ftlich  128389    12   128401    Orlov
+19.12.11  06:35  07:00  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  128401    9    128410    Orlov
+19.12.11  07:10  07:18  TankStelle          Gebersdorfer Straﬂe 22             gesch‰ftlich  128410    2    128412    Orlov
+19.12.11  07:23  07:50  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128412    17   128429    Orlov
+19.12.11  08:50  10:25  Audi Werke          NSU-Straﬂe 1 Nekrasulm             gesch‰ftlich  128429    170  128599    Orlov
+19.12.11  18:45  20:36  home                Berckhauserstr 44                  gesch‰ftlich  128599    177  128776    Orlov
+20.12.11  09:42  10:10  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128776    13   128789    Orlov
+20.12.11  18:15  18:43  home                Berckhauserstr 44                  gesch‰ftlich  128789    12   128801    Orlov
+21.12.11  09:02  09:30  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128801    13   128814    Orlov
+21.12.11  18:40  19:08  home                Berckhauserstr 44                  gesch‰ftlich  128814    12   128826    Orlov
+22.12.11  08:52  09:20  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128826    13   128839    Orlov
+22.12.11  17:20  17:48  home                Berckhauserstr 44                  gesch‰ftlich  128839    12   128851    Orlov
+23.12.11  09:47  10:15  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128851    13   128864    Orlov
+23.12.11  16:40  17:08  home                Berckhauserstr 44                  gesch‰ftlich  128864    12   128876    Orlov
+27.12.11  09:22  09:50  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128876    13   128889    Orlov
+27.12.11  17:10  17:54  TankStelle          Witschelstr 93                     gesch‰ftlich  128889    17   128906    Orlov
+27.12.11  17:59  18:15  Siemens Studium     Colmbergerstr 2                    gesch‰ftlich  128906    5    128911    Orlov
+27.12.11  20:00  20:24  home                Berckhauserstr 44                  gesch‰ftlich  128911    9    128920    Orlov
+28.12.11  09:42  10:10  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128920    13   128933    Orlov
+28.12.11  18:40  19:08  home                Berckhauserstr 44                  gesch‰ftlich  128933    12   128945    Orlov
+29.12.11  09:12  09:40  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128945    13   128958    Orlov
+29.12.11  18:10  18:38  home                Berckhauserstr 44                  gesch‰ftlich  128958    12   128970    Orlov
+30.12.11  09:32  10:00  Siemens AG          Schreiberhauerstr 7                gesch‰ftlich  128970    13   128983    Orlov
+30.12.11  18:30  18:58  home                Berckhauserstr 44                  gesch‰ftlich  128983    12   128995    Orlov

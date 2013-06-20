@@ -1,0 +1,339 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Distances>
+    <address1>home</address1>
+    <address2>G. Carapoulious</address2>
+    <distance>3</distance>
+    <time>5 mins</time>
+  </Distances>
+  <Distances>
+    <address1>G. Carapoulious</address1>
+    <address2>E</address2>
+    <distance>2</distance>
+    <time>3 mins</time>
+  </Distances>
+  <Distances>
+    <address1>E</address1>
+    <address2>Elektrobit GmbH</address2>
+    <distance>17</distance>
+    <time>17 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Elektrobit GmbH</address1>
+    <address2>home</address2>
+    <distance>12</distance>
+    <time>16 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>Elektrobit GmbH</address2>
+    <distance>13</distance>
+    <time>17 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>Ist GmbH</address2>
+    <distance>194</distance>
+    <time>1 hour 52 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Ist GmbH</address1>
+    <address2>home</address2>
+    <distance>194</distance>
+    <time>1 hour 52 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>S</address2>
+    <distance>1</distance>
+    <time>2 mins</time>
+  </Distances>
+  <Distances>
+    <address1>S</address1>
+    <address2>home</address2>
+    <distance>1</distance>
+    <time>2 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>Siemens Studium</address2>
+    <distance>9</distance>
+    <time>17 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens Studium</address1>
+    <address2>J</address2>
+    <distance>2</distance>
+    <time>4 mins</time>
+  </Distances>
+  <Distances>
+    <address1>J</address1>
+    <address2>Elektrobit GmbH</address2>
+    <distance>21</distance>
+    <time>23 mins</time>
+  </Distances>
+  <Distances>
+    <address1>S</address1>
+    <address2>Elektrobit GmbH</address2>
+    <distance>12</distance>
+    <time>16 mins</time>
+  </Distances>
+  <Distances>
+    <address1>J</address1>
+    <address2>home</address2>
+    <distance>10</distance>
+    <time>17 mins</time>
+  </Distances>
+  <Distances>
+    <address1>S</address1>
+    <address2>Siemens AG VG</address2>
+    <distance>222</distance>
+    <time>2 hours 7 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens AG VG</address1>
+    <address2>home</address2>
+    <distance>227</distance>
+    <time>2 hours 8 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Elektrobit GmbH</address1>
+    <address2>S</address2>
+    <distance>12</distance>
+    <time>16 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>Mercedes Benz AG</address2>
+    <distance>212</distance>
+    <time>2 hours 9 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Mercedes Benz AG</address1>
+    <address2>home</address2>
+    <distance>215</distance>
+    <time>2 hours 10 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>Siemens AG</address2>
+    <distance>13</distance>
+    <time>20 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens AG</address1>
+    <address2>home</address2>
+    <distance>12</distance>
+    <time>20 mins</time>
+  </Distances>
+  <Distances>
+    <address1>S</address1>
+    <address2>D. Kirschner</address2>
+    <distance>170</distance>
+    <time>1 hour 43 mins</time>
+  </Distances>
+  <Distances>
+    <address1>D. Kirschner</address1>
+    <address2>Siemens Studium</address2>
+    <distance>167</distance>
+    <time>1 hour 36 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>Audi Werke</address2>
+    <distance>171</distance>
+    <time>1 hour 44 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Audi Werke</address1>
+    <address2>home</address2>
+    <distance>175</distance>
+    <time>1 hour 43 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens AG</address1>
+    <address2>S</address2>
+    <distance>13</distance>
+    <time>21 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>J1</address2>
+    <distance>264</distance>
+    <time>2 hours 37 mins</time>
+  </Distances>
+  <Distances>
+    <address1>J1</address1>
+    <address2>Itdesign GmbH</address2>
+    <distance>4</distance>
+    <time>9 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Itdesign GmbH</address1>
+    <address2>home</address2>
+    <distance>262</distance>
+    <time>2 hours 33 mins</time>
+  </Distances>
+  <Distances>
+    <address1>S</address1>
+    <address2>Siemens Studium</address2>
+    <distance>9</distance>
+    <time>17 mins</time>
+  </Distances>
+  <Distances>
+    <address1>S</address1>
+    <address2>Siemens AG</address2>
+    <distance>13</distance>
+    <time>21 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>Jterms</address2>
+    <distance>231</distance>
+    <time>2 hours 18 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Jterms</address1>
+    <address2>TO</address2>
+    <distance>2</distance>
+    <time>3 mins</time>
+  </Distances>
+  <Distances>
+    <address1>TO</address1>
+    <address2>home</address2>
+    <distance>229</distance>
+    <time>2 hours 14 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>J</address2>
+    <distance>10</distance>
+    <time>17 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>S1</address2>
+    <distance>7</distance>
+    <time>11 mins</time>
+  </Distances>
+  <Distances>
+    <address1>S1</address1>
+    <address2>Siemens AG</address2>
+    <distance>6</distance>
+    <time>9 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens AG</address1>
+    <address2>Audi Werke</address2>
+    <distance>161</distance>
+    <time>1 hour 28 mins</time>
+  </Distances>
+  <Distances>
+    <address1>J</address1>
+    <address2>Siemens AG</address2>
+    <distance>17</distance>
+    <time>15 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens AG</address1>
+    <address2>S1</address2>
+    <distance>7</distance>
+    <time>10 mins</time>
+  </Distances>
+  <Distances>
+    <address1>S1</address1>
+    <address2>home</address2>
+    <distance>7</distance>
+    <time>11 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens AG</address1>
+    <address2>A1</address2>
+    <distance>20</distance>
+    <time>20 mins</time>
+  </Distances>
+  <Distances>
+    <address1>A1</address1>
+    <address2>Elektrobit GmbH</address2>
+    <distance>10</distance>
+    <time>11 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens AG</address1>
+    <address2>E</address2>
+    <distance>11</distance>
+    <time>18 mins</time>
+  </Distances>
+  <Distances>
+    <address1>E</address1>
+    <address2>home</address2>
+    <distance>3</distance>
+    <time>6 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens AG</address1>
+    <address2>P</address2>
+    <distance>282</distance>
+    <time>2 hours 35 mins</time>
+  </Distances>
+  <Distances>
+    <address1>P</address1>
+    <address2>P1</address2>
+    <distance>9</distance>
+    <time>13 mins</time>
+  </Distances>
+  <Distances>
+    <address1>P1</address1>
+    <address2>Flughaven Praha</address2>
+    <distance>27</distance>
+    <time>25 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Flughaven Praha1</address1>
+    <address2>Siemens AG</address2>
+    <distance>275</distance>
+    <time>2 hours 21 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>O</address2>
+    <distance>12</distance>
+    <time>17 mins</time>
+  </Distances>
+  <Distances>
+    <address1>O</address1>
+    <address2>Siemens AG</address2>
+    <distance>2</distance>
+    <time>3 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens AG</address1>
+    <address2>Siemens Studium</address2>
+    <distance>15</distance>
+    <time>13 mins</time>
+  </Distances>
+  <Distances>
+    <address1>J</address1>
+    <address2>Audi Werke</address2>
+    <distance>168</distance>
+    <time>1 hour 34 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens AG</address1>
+    <address2>SVG</address2>
+    <distance>17</distance>
+    <time>16 mins</time>
+  </Distances>
+  <Distances>
+    <address1>SVG</address1>
+    <address2>Siemens Studium</address2>
+    <distance>5</distance>
+    <time>9 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens Studium</address1>
+    <address2>home</address2>
+    <distance>9</distance>
+    <time>16 mins</time>
+  </Distances>
+</DocumentElement>

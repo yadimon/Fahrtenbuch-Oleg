@@ -1,0 +1,357 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Distances>
+    <address1>home</address1>
+    <address2>Elektrobit GmbH</address2>
+    <distance>13</distance>
+    <time>17 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Elektrobit GmbH</address1>
+    <address2>home</address2>
+    <distance>12</distance>
+    <time>16 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>SH2</address2>
+    <distance>2</distance>
+    <time>5 mins</time>
+  </Distances>
+  <Distances>
+    <address1>SH2</address1>
+    <address2>Elektrobit GmbH</address2>
+    <distance>11</distance>
+    <time>12 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>CDN AG</address2>
+    <distance>108</distance>
+    <time>1 hour 12 mins</time>
+  </Distances>
+  <Distances>
+    <address1>CDN AG</address1>
+    <address2>home</address2>
+    <distance>109</distance>
+    <time>1 hour 13 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>S</address2>
+    <distance>1</distance>
+    <time>2 mins</time>
+  </Distances>
+  <Distances>
+    <address1>S</address1>
+    <address2>home</address2>
+    <distance>1</distance>
+    <time>2 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Elektrobit GmbH</address1>
+    <address2>Siemens AG</address2>
+    <distance>23</distance>
+    <time>22 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens AG</address1>
+    <address2>S2</address2>
+    <distance>5</distance>
+    <time>9 mins</time>
+  </Distances>
+  <Distances>
+    <address1>S2</address1>
+    <address2>home</address2>
+    <distance>9</distance>
+    <time>13 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Elektrobit GmbH</address1>
+    <address2>S</address2>
+    <distance>12</distance>
+    <time>16 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>AV</address2>
+    <distance>4</distance>
+    <time>9 mins</time>
+  </Distances>
+  <Distances>
+    <address1>AV</address1>
+    <address2>Finansamt Süd</address2>
+    <distance>1</distance>
+    <time>1 min</time>
+  </Distances>
+  <Distances>
+    <address1>Finansamt Süd</address1>
+    <address2>Elektrobit GmbH</address2>
+    <distance>19</distance>
+    <time>21 mins</time>
+  </Distances>
+  <Distances>
+    <address1>S</address1>
+    <address2>Elektrobit GmbH</address2>
+    <distance>12</distance>
+    <time>16 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Elektrobit GmbH</address1>
+    <address2>AR</address2>
+    <distance>22</distance>
+    <time>19 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Data Service</address1>
+    <address2>home</address2>
+    <distance>9</distance>
+    <time>14 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>AH</address2>
+    <distance>26</distance>
+    <time>29 mins</time>
+  </Distances>
+  <Distances>
+    <address1>AH</address1>
+    <address2>Alpha Technologies</address2>
+    <distance>2</distance>
+    <time>3 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Alpha Technologies</address1>
+    <address2>Elektrobit GmbH</address2>
+    <distance>45</distance>
+    <time>28 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Elektrobit GmbH</address1>
+    <address2>J</address2>
+    <distance>24</distance>
+    <time>22 mins</time>
+  </Distances>
+  <Distances>
+    <address1>J</address1>
+    <address2>Siemens AG</address2>
+    <distance>2</distance>
+    <time>4 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens AG</address1>
+    <address2>home</address2>
+    <distance>9</distance>
+    <time>16 mins</time>
+  </Distances>
+  <Distances>
+    <address1>S</address1>
+    <address2>CDN AG</address2>
+    <distance>109</distance>
+    <time>1 hour 13 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Elektrobit GmbH</address1>
+    <address2>CDN AG</address2>
+    <distance>113</distance>
+    <time>1 hour 11 mins</time>
+  </Distances>
+  <Distances>
+    <address1>CDN AG</address1>
+    <address2>S2</address2>
+    <distance>109</distance>
+    <time>1 hour 11 mins</time>
+  </Distances>
+  <Distances>
+    <address1>S2</address1>
+    <address2>Siemens AG</address2>
+    <distance>4</distance>
+    <time>7 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>D. Kirschner</address2>
+    <distance>25</distance>
+    <time>27 mins</time>
+  </Distances>
+  <Distances>
+    <address1>D. Kirschner</address1>
+    <address2>SH</address2>
+    <distance>1</distance>
+    <time>1 min</time>
+  </Distances>
+  <Distances>
+    <address1>SH</address1>
+    <address2>home</address2>
+    <distance>25</distance>
+    <time>26 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>D. Kirschner1</address2>
+    <distance>174</distance>
+    <time>1 hour 48 mins</time>
+  </Distances>
+  <Distances>
+    <address1>D. Kirschner1</address1>
+    <address2>S</address2>
+    <distance>175</distance>
+    <time>1 hour 49 mins</time>
+  </Distances>
+  <Distances>
+    <address1>S</address1>
+    <address2>Siemens AG</address2>
+    <distance>9</distance>
+    <time>17 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens AG</address1>
+    <address2>J</address2>
+    <distance>2</distance>
+    <time>4 mins</time>
+  </Distances>
+  <Distances>
+    <address1>J</address1>
+    <address2>home</address2>
+    <distance>10</distance>
+    <time>17 mins</time>
+  </Distances>
+  <Distances>
+    <address1>CDN AG</address1>
+    <address2>S3</address2>
+    <distance>109</distance>
+    <time>1 hour 13 mins</time>
+  </Distances>
+  <Distances>
+    <address1>S3</address1>
+    <address2>Siemens AG</address2>
+    <distance>6</distance>
+    <time>12 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens AG</address1>
+    <address2>S</address2>
+    <distance>9</distance>
+    <time>16 mins</time>
+  </Distances>
+  <Distances>
+    <address1>CDN AG</address1>
+    <address2>G. Carapoulious</address2>
+    <distance>104</distance>
+    <time>1 hour 9 mins</time>
+  </Distances>
+  <Distances>
+    <address1>G. Carapoulious</address1>
+    <address2>O</address2>
+    <distance>2</distance>
+    <time>4 mins</time>
+  </Distances>
+  <Distances>
+    <address1>O</address1>
+    <address2>home</address2>
+    <distance>2</distance>
+    <time>5 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>A3</address2>
+    <distance>20</distance>
+    <time>22 mins</time>
+  </Distances>
+  <Distances>
+    <address1>A3</address1>
+    <address2>D. Kirschner2</address2>
+    <distance>9</distance>
+    <time>10 mins</time>
+  </Distances>
+  <Distances>
+    <address1>D. Kirschner2</address1>
+    <address2>home</address2>
+    <distance>28</distance>
+    <time>30 mins</time>
+  </Distances>
+  <Distances>
+    <address1>CDN AG</address1>
+    <address2>Siemens AG</address2>
+    <distance>108</distance>
+    <time>1 hour 11 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>S2</address2>
+    <distance>6</distance>
+    <time>13 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens AG</address1>
+    <address2>CDN AG</address2>
+    <distance>108</distance>
+    <time>1 hour 9 mins</time>
+  </Distances>
+  <Distances>
+    <address1>CDN AG</address1>
+    <address2>A2</address2>
+    <distance>114</distance>
+    <time>1 hour 15 mins</time>
+  </Distances>
+  <Distances>
+    <address1>A2</address1>
+    <address2>Siemens AG</address2>
+    <distance>8</distance>
+    <time>13 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>A1</address2>
+    <distance>7</distance>
+    <time>12 mins</time>
+  </Distances>
+  <Distances>
+    <address1>A1</address1>
+    <address2>Elektrobit GmbH</address2>
+    <distance>15</distance>
+    <time>15 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>Siemens AG</address2>
+    <distance>9</distance>
+    <time>17 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>J</address2>
+    <distance>10</distance>
+    <time>17 mins</time>
+  </Distances>
+  <Distances>
+    <address1>Siemens AG</address1>
+    <address2>Elektrobit GmbH</address2>
+    <distance>20</distance>
+    <time>22 mins</time>
+  </Distances>
+  <Distances>
+    <address1>home</address1>
+    <address2>D. Kirschner3</address2>
+    <distance>11</distance>
+    <time>17 mins</time>
+  </Distances>
+  <Distances>
+    <address1>D. Kirschner3</address1>
+    <address2>A</address2>
+    <distance>1</distance>
+    <time>4 mins</time>
+  </Distances>
+  <Distances>
+    <address1>A</address1>
+    <address2>home</address2>
+    <distance>16</distance>
+    <time>18 mins</time>
+  </Distances>
+  <Distances>
+    <address1>CDN AG</address1>
+    <address2>S</address2>
+    <distance>109</distance>
+    <time>1 hour 13 mins</time>
+  </Distances>
+</DocumentElement>
